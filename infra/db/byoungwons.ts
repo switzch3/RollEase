@@ -3,5 +3,5 @@ import addOpenToday from "@/lib/addOpenToday";
 import type { MedicalFacility } from "@/infra/types/ByoungWon";
 
 export const getByoungwon = () => {
-  return addOpenToday(BYOUNGWONS as MedicalFacility[]).slice(0, 50);
+  return addOpenToday(BYOUNGWONS as MedicalFacility[]).slice(0, 100);
 };
