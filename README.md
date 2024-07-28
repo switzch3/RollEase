@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 기능
 
-## Getting Started
+## 지도
 
-First, run the development server:
+- [x] 최초 로딩되면 강남구 서초구로 줌.
+    - 줌 레벨 15 -> 네이버에서 15로 되어있음
+- [x] 현재 위치로 줌
+    - 현재위치 줌 아이콘
+- [x] 현재 위치 표시 -> 아이콘?
+- [x] 한개 병원의 위치 표시
+- [x] 마커 클러스터 하기 (기본예제)
+- [x] 휠체어로 접근 가능한지 아이콘으로 표시
+- [x] 서초구, 강남구 범위로 좁히기
+- [x] 아이콘 클릭시 병원 정보 보이도록 수정
+- [x] 클러스터 아이콘 수정하기
+    - 허락을 하도록 유도하기
+- [ ] ~~Allow 하게되면 자동으로 위치로 가게하기~~
+- [ ] 필터 추가 -> 영업중, 진입가능, 보기
+- [ ] 강남구와 서초구만 지원한다고 안내 띄어주기
+- [ ] 허락 안되어있으면 알림 띄어줘야함.
+-
+## 리스트
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- [x] 리스트 보기
+- [x] dummyAccessible 추가 및 보여주기 -> 접근 가능확인
+- [x] 영업중 표시하기
+    - [ ] 영업시간 자세히 보기
+    - [x] 공휴일 반영
+- [x] 검색 (단순 한글 매칭)
+- [ ] 진입 사진 보여주기
+- [ ] 필터 추가 -> 영업중, 진입가능, 가까운순, 먼순(?) 보기
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 데이터
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- [x] firebase sdk 설치
+- [x] 서초구, 강남구의 약국 데이터 가져오기
+- [ ] 쿼리 최적화 하기, geo query.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 검색엔진 최적화
 
-## Learn More
+- [x] 타이틀, 파비콘 추가
+- [ ] 휠체어 이용자, 유모차 이용자 약국, 교통약자 약국
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 모바일, 데스크탑 최적화
