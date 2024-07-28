@@ -5,7 +5,7 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Application Name (병원을 찾아서)",
+  title: "HospiWheel (병원을 찾아서)",
   description: "몸이 불편하신 휠체어 사용자을 위하여..",
 };
 
