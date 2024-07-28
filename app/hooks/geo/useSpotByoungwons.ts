@@ -50,7 +50,7 @@ export function useSpotByoungwons(naverMap: naver.maps.Map | undefined) {
           position: location,
           map: naverMap,
           icon: {
-            url: `/${dummyAccessibility}.svg`,
+            url: `/${dummyAccessibility}.svg`, // Todo: 여기에 종류별로 svg 보여지도록 수정.
             size: new naver.maps.Size(28, 28),
             scaledSize: new naver.maps.Size(28, 28),
           },
