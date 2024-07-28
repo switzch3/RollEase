@@ -18,7 +18,7 @@ export function useInitMap(REF_ID: string) {
       if (statusMap === "ready") {
         const defaultPosition = new naver.maps.LatLng(37.4963764, 127.0320237); //역삼 푸른솔 도서관
 
-        const mapOptions   = {
+        const mapOptions = {
           center: defaultPosition,
           // minZoom: 13, // 읍면동 레벨
           // maxBounds: seochoGangnam, // 네이버 맵의 줌레벨
@@ -58,6 +58,7 @@ export function useInitMap(REF_ID: string) {
         }
       };
     },
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     [statusMap],
   );
   return [naverMap, currentBounds] as const;

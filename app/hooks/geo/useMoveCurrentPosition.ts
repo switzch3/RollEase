@@ -11,7 +11,7 @@ export function useMoveCurrentPosition(naverMap: naver.maps.Map | undefined) {
     if (!currentPosition || !naverMap) return;
     const current = new naver.maps.LatLng(
       currentPosition.coords.latitude,
-      currentPosition.coords.longitude
+      currentPosition.coords.longitude,
     );
     setCurrent(current);
   }, [currentPosition, naverMap]);
@@ -38,6 +38,7 @@ export function useMoveCurrentPosition(naverMap: naver.maps.Map | undefined) {
     return () => {
       setCurrentMaker(undefined);
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [current, naverMap]);
 
   const moveCurrentPosition = useCallback(() => {
@@ -47,6 +48,7 @@ export function useMoveCurrentPosition(naverMap: naver.maps.Map | undefined) {
     setTimeout(() => {
       naverMap.panTo(current);
     }, 500);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [naverMap, currentPosition, currentMarker]);
 
   return moveCurrentPosition;
