@@ -5,8 +5,9 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "HospiWheel (병원을 찾아서)",
-  description: "몸이 불편하신 휠체어 사용자을 위하여..",
+  title: "RollEase - Finding wheelchair-accessible hospitals",
+  description:
+    "휠체어 접근이 가능한 병원찾기",
 };
 
 export default function RootLayout({
