@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useScript } from "usehooks-ts";
 import { NAMHAN } from "@/lib/Namhan";
-import { GANGNAME_SEOCHO } from "@/lib/GangnamSeocho";
+import { YONGSAN } from "@/lib/Yongsan";
 
 const NCP_CLIENT_ID = "oxziiq8o6e";
 
@@ -32,9 +32,7 @@ export function useInitMap(REF_ID: string) {
           map: map,
           paths: [
             NAMHAN.map(([lat, lng]) => new naver.maps.LatLng(lat, lng)),
-            GANGNAME_SEOCHO.map(
-              ([lat, lng]) => new naver.maps.LatLng(lat, lng),
-            ),
+            YONGSAN.map(([lat, lng]) => new naver.maps.LatLng(lat, lng)),
           ],
           fillColor: "#f00",
           fillOpacity: 0.2,
