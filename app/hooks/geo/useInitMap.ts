@@ -16,7 +16,8 @@ export function useInitMap(REF_ID: string) {
     function loadNAVERMap() {
       let boundListener: naver.maps.MapEventListener;
       if (statusMap === "ready") {
-        const defaultPosition = new naver.maps.LatLng(37.4963764, 127.0320237); //역삼 푸른솔 도서관
+        const defaultPosition = new naver.maps.LatLng(37.532527, 126.99049); //용산구청
+        // const defaultPosition = new naver.maps.LatLng(37.4963764, 127.0320237); //역삼 푸른솔 도서관
 
         const mapOptions = {
           center: defaultPosition,
