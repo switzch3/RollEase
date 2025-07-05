@@ -34,7 +34,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "교대역 8번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "성형외과/가슴성형 전문",
@@ -71,7 +72,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "광나루역 3번출구 인근/삼성아파트 상가동",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["station-to-hospital", "ramp-safe"]
   },
   {
     "dutyinf": "토요일11:30 이후와 일요일은 레지던트선생님당직 진료이며, 외래진료 불가.",
@@ -108,7 +110,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "4호선 이촌역 4번출구에서 버스이용",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "예약제 병원으로 평일 17시, 토요일은 13시에 접수 마감",
@@ -145,7 +148,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "1호선 남영역 1번출구, 4호선 숙대입구역 7번출구 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "예약제 병원으로 평일 17시, 토요일은 13시에 접수 마감",
@@ -182,7 +186,8 @@
     "dutytime6s": "0800",
     "dutytime4s": "0800",
     "dutymapimg": "효창공원역 1번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "신장내과 전문",
@@ -219,7 +224,14 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "리첸시아용산 3층 303호",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "ramp-safe",
+      "waiting-room-space",
+      "parking-to-entrance",
+      "auto-door"
+    ]
   },
   {
     "dutyinf": "추석, 설 만 빼고 공휴일 모두 운영//",
@@ -256,7 +268,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "올림픽공원역 2번출구 기자촌상가2층15호",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "추석, 설 만 빼고 공휴일 모두 운영//",
@@ -293,7 +306,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "이촌역 3-1출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "산부인과 및 여성성형을 주로 하는 의원입니다.",
@@ -330,7 +344,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "9호선 흑석역 3번출구, 도보 7분",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간 - 13:00-14:00",
@@ -367,7 +382,14 @@
     "dutytime6s": "0950",
     "dutytime4s": "0950",
     "dutymapimg": "이촌동 대림아파트 근처",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "elevator-access",
+      "parking-to-entrance",
+      "auto-door",
+      "clinic-access",
+      "hallway-wide"
+    ]
   },
   {
     "dutyinf": "30분전접수마감",
@@ -404,7 +426,16 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "하나은행 이촌역지점 건물",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "waiting-room-space",
+      "hallway-wide",
+      "entrance-visible",
+      "parking-to-entrance",
+      "signage-clear",
+      "elevator-access",
+      "auto-door"
+    ]
   },
   {
     "dutyinf": "점심시간 12:30~01:00",
@@ -441,7 +472,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "북가좌초등학교 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "봉합/",
@@ -478,7 +510,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "신용산역 1번 출구/서울용산우체국 옆",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "※ 진료과목:  노안백내장  /  녹내장  /  황반변성  /  실명질환  /  안구건조증  /  드림렌즈  /  고도근시",
@@ -515,7 +548,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이태원역 1번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일반침, 약침, 부항, 온뜸, 핫팩찜질, ICT SSP 등의 물리치료 시술 및 골다공증 개선 한약처방, 어린이청소년수험생의 집중력 증가 및 산만함 ADHD 개선 처방, 현대인 만성 면역력 저하 개선 처방,",
@@ -552,7 +586,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "한성대입구역 3번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일반침, 약침, 부항, 온뜸, 핫팩찜질, ICT SSP 등의 물리치료 시술 및 골다공증 개선 한약처방, 어린이청소년수험생의 집중력 증가 및 산만함 ADHD 개선 처방, 현대인 만성 면역력 저하 개선 처방,",
@@ -589,7 +624,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "산호아파트 건너편",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간:12시30분~2시까지.",
@@ -626,7 +662,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "한티역 1번출구, 올리브영 건물 3층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간:12시30분~2시까지.",
@@ -663,7 +700,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "숙대입구역 9번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일반진료X",
@@ -700,7 +738,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "농협건물/기업은행 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내과를 진료과목으로 둠으로써 전신병력을 체크하여 협진이 가능한 치과병원으로써\n내 이처럼 소중하게 보존하고\n내 이처럼 신중하게 진단하며\n내 이처럼 안아프게 치료하고\n내 이처럼 자연스럽게 만드는 치과",
@@ -737,7 +776,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "신용산역 2번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "x-ray/봉합/상처소독/물리치료/",
@@ -774,7 +814,18 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "농협은행 한남동지점 건물 7층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "parking-to-entrance",
+      "signage-clear",
+      "ramp-safe",
+      "auto-door",
+      "entrance-visible",
+      "waiting-room-space",
+      "hallway-wide",
+      "elevator-access",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "x-ray/봉합/상처소독/물리치료/",
@@ -811,7 +862,15 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이촌역 1번출구 3분거리/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "signage-clear",
+      "waiting-room-space",
+      "entrance-visible",
+      "auto-door",
+      "elevator-access"
+    ]
   },
   {
     "dutyinf": "임시공휴일 및 대체휴일은 정상근무합니다.",
@@ -848,7 +907,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "한남오거리 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "잠실(삼전동)에 위치한 어깨,허리,무릎 통증 전문병원",
@@ -885,7 +945,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "한남오거리 성아아파트 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간12:30~13:00\n토요일,공휴일 진료없음",
@@ -922,7 +983,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "샛강역 4번출구, 여의도자이 501/203",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["clinic-access"]
   },
   {
     "dutyinf": "일반진료/피부미용/화상/접수는 마감1시간 전",
@@ -959,7 +1021,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1400",
     "dutymapimg": "압구정로데오역 6번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "한방내과, 한방재활의학과, 한방부인과, 한방이비인후과, 한방소아과, 환자를 빛내주는 명품조연 다현한의원입니다.",
@@ -996,7 +1059,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "신사동 주민센터 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "미용성형",
@@ -1033,7 +1097,19 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "아랍에미레이트 대사관 옆 흰 건물",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "parking-to-entrance",
+      "elevator-access",
+      "clinic-access",
+      "signage-clear",
+      "waiting-room-space",
+      "auto-door",
+      "ramp-safe",
+      "hallway-wide",
+      "station-to-hospital"
+    ]
   },
   {
     "dutyinf": "<야간진료>\n수- 정형외과 \n목- 내과, 이비인후과 \n월,화,금- 피부과",
@@ -1070,7 +1146,14 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "방이역 4번출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "entrance-visible",
+      "signage-clear",
+      "clinic-access",
+      "auto-door"
+    ]
   },
   {
     "dutyinf": "지하철 중계역 1번 출구 바로 앞 이비인후과 의원 입니다. 귀 코 목 질환 및 보청기, 수액치료, 예방접종을 하고 있습니다.",
@@ -1107,7 +1190,13 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "잠실나루역 3번출구/ 잠실역 7번출구/장미B상가 1번 입구 2층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "auto-door",
+      "station-to-hospital",
+      "elevator-access"
+    ]
   },
   {
     "dutyinf": "지하철 중계역 1번 출구 바로 앞 이비인후과 의원 입니다. 귀 코 목 질환 및 보청기, 수액치료, 예방접종을 하고 있습니다.",
@@ -1144,7 +1233,18 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "신도림역 1번출구 맞은편 푸르지오 2차 상가 306호",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "signage-clear",
+      "elevator-access",
+      "waiting-room-space",
+      "clinic-access",
+      "entrance-visible",
+      "hallway-wide",
+      "auto-door",
+      "station-to-hospital",
+      "parking-to-entrance"
+    ]
   },
   {
     "dutyinf": "위치설명(H)\t\n7호선 학동역 10번출구\n21/100 byte\n\n비고\t\n0/200 byte\n\n운영(진료) 시간(H)\n주의 : 숫자만 입력됨\n응급의료기관은 외래 진료시간 입력\t\n 월~금 일괄 토요일, 공휴일 일괄 [일요일 운영주:  매주  1주  2주  3주  4주",
@@ -1181,7 +1281,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "용산역 1번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "소아청소년클리닉(주의력문제, ADHD, 학습장애, 틱, 인터넷중독, 언어.발달장애치료, ABA, 감각통합, 청소년 스트레스 전문치료)\n성인클리닉(공황, 불안, 우울, 강박, 인터넷중독문제, 심리치료, 가족치료, 정신분석)",
@@ -1218,7 +1319,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "J&K빌딩 3층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "상호명변경: 김호선한의원 \n주소 변경: 용산구 신흥로 20길 8",
@@ -1255,7 +1357,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "응암오거리에서 우체국 도로 맞은편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["entrance-visible", "station-to-hospital", "auto-door"]
   },
   {
     "dutyinf": "점심시간 13~14시",
@@ -1292,7 +1395,17 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "군자역 7,8번출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "ramp-safe",
+      "parking-to-entrance",
+      "entrance-visible",
+      "signage-clear",
+      "auto-door",
+      "elevator-access",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "저희 대나무한의원은 홍제역 1번출구 나오시면 바로 있습니다.\n항상 환자의 질병치료에 최우선을 두고 있으며 가족처럼 편안하게 다가가겠습니다.",
@@ -1329,7 +1442,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "홍제역 1번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "미용진료/봉합",
@@ -1366,7 +1480,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "이태원역 1번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일반진료/피부미용/화상",
@@ -1403,7 +1518,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "충무로역 8번출구 바로앞",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일반진료/피부미용/화상",
@@ -1440,7 +1556,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "숙대입구역",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["ramp-safe", "clinic-access", "signage-clear"]
   },
   {
     "dutyinf": "일반진료/피부미용/화상",
@@ -1477,7 +1594,16 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "숙대입구역",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "elevator-access",
+      "parking-to-entrance",
+      "signage-clear",
+      "hallway-wide",
+      "station-to-hospital",
+      "clinic-access",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "피부과",
@@ -1514,7 +1640,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1000",
     "dutymapimg": "효창공원앞역 5번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "항문(전문)/대장내시경/피부종양제거/봉합",
@@ -1551,7 +1678,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "남영역 1번출구 국제전산빌딩 3층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간: 12:30 ~ 13:30\n운영시간이 변경 될 수 있으니 전화 확인 후 방문",
@@ -1588,7 +1716,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "교대역 12번출구 바로앞",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["entrance-visible", "auto-door", "signage-clear"]
   },
   {
     "dutyinf": "행복을 선물하는 더 행복한 산부인과 입니다 \n미혼여성부터 폐경여성까지 모든 여성들의 쉽게 말하기 힘든 고민들에 귀기울이며, 함께 고민하고 해결하는데 도움을 드리고자 노력하는 더행복한산부인과가 되겠습니다",
@@ -1625,7 +1754,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "성신여대입구역 3번 출구 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "예약제로 운영",
@@ -1662,7 +1792,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "도원삼성래미안아파트 상가 3층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "방문진료",
@@ -1699,7 +1830,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "마곡나루역 1번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "매주 목요일은 정기휴무,   일요일은 둘째주 넷째주 일요일에 진료합니다.",
@@ -1736,7 +1868,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "홍제역 4번출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["auto-door", "clinic-access", "ramp-safe", "elevator-access"]
   },
   {
     "dutyinf": "원장은 UCLA의과대학 연구교수와 경희대 동서의학대학원 교수를 역임한 노인병 전문의임. 한국에 미국의사, 한국의사와 한의사면허를 가진 2명 중 서울에 근무하는 유일한 의사로 알려져 있음. '주역의 과학과 도' 및 '일본인 한국인 이주민의 나라'라는 책을 출간하였음,",
@@ -1773,7 +1906,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "수서1단지상가 312",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "원장은 UCLA의과대학 연구교수와 경희대 동서의학대학원 교수를 역임한 노인병 전문의임. 한국에 미국의사, 한국의사와 한의사면허를 가진 2명 중 서울에 근무하는 유일한 의사로 알려져 있음. '주역의 과학과 도' 및 '일본인 한국인 이주민의 나라'라는 책을 출간하였음,",
@@ -1810,7 +1944,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "교대역 4번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "맑은 머리 돕는 두보한의원입니다.",
@@ -1847,7 +1982,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "노량진역 3번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내과진료 17시까지",
@@ -1884,44 +2020,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "압구정역 5번 출구 앞 100m 투썸플레이스 건물 4층",
-    "dummyAccessibility": "inaccessible"
-  },
-  {
-    "dutyinf": "원장은 UCLA의과대학 연구교수와 경희대 동서의학대학원 교수를 역임한 노인병 전문의임. 한국에 미국의사, 한국의사와 한의사면허를 가진 2명 중 서울에 근무하는 유일한 의사로 알려져 있음. '주역의 과학과 도' 및 '일본인 한국인 이주민의 나라'라는 책을 출간하였음,",
-    "dutytel3": "02-829-9129",
-    "dutytel1": "02-754-8742",
-    "dutydivnam": "한의원",
-    "dutytime2c": "1800",
-    "dutyeryn": "2",
-    "dutytime6c": "1700",
-    "dutytime8c": "1800",
-    "dutytime4c": "1800",
-    "wgs84lat": "37.5515933885473",
-    "dutydiv": "G",
-    "dutytime1s": "1000",
-    "wgs84lon": "126.977208625215",
-    "dutytime5s": "1000",
-    "dutytime8s": "0900",
-    "postcdn2": "27",
-    "postcdn1": "043",
-    "dutytime3s": "1000",
-    "dutytime3c": "1800",
-    "dutyemclsname": "응급의료기관 이외",
-    "dutytime1c": "1800",
-    "dutytime7s": "0900",
-    "dutyemcls": "G099",
-    "dutyname": "동성한의원",
-    "dutyetc": "석가탄신일, 크리스마스은 휴진입니다.",
-    "hpid": "B1100151",
-    "dutytime5c": "1800",
-    "dutyaddr": "서울특별시 용산구 후암로 64-1 (후암동)",
-    "dutytime7c": "1800",
-    "dutytime2s": "1000",
-    "work_dttm": 1707285371000,
-    "dutytime6s": "1000",
-    "dutytime4s": "1000",
-    "dutymapimg": "수서1단지상가 312",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "피부 미용, 일반 피부과 진료\n보톡스, 필러",
@@ -1958,7 +2058,8 @@
     "dutytime6s": "1030",
     "dutytime4s": "1000",
     "dutymapimg": "숙대입구역 6번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "격주 목/토 휴진(변동 많으므로, 전화 확인후 내원을 권합니다)",
@@ -1995,7 +2096,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "경복궁역 1번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["ramp-safe", "station-to-hospital", "waiting-room-space"]
   },
   {
     "dutyinf": "토요일진료(1,3,5주만) 가능/",
@@ -2032,7 +2134,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1400",
     "dutymapimg": "압십리래미안위브아파트 205동 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "토요일진료(1,3,5주만) 가능/",
@@ -2069,7 +2172,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1100",
     "dutymapimg": "전자랜드 신관 20호",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "매주 목요일은 정기휴무,   일요일은 둘째주 네째 주 일요일에 진료합니다.",
@@ -2106,7 +2210,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "동묘앞역 5분거리",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "소아8살 이상/ 수액",
@@ -2143,7 +2248,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "방이역 1번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "전반적인 치과진료",
@@ -2180,7 +2286,15 @@
     "dutytime6s": "0000",
     "dutytime4s": "0000",
     "dutymapimg": "대흥역2번출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "elevator-access",
+      "hallway-wide",
+      "station-to-hospital",
+      "clinic-access",
+      "ramp-safe",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "부작용 없는 한의학적 신경정신 치료, 마음심 박종찬 한의원과 상의하세요.",
@@ -2217,7 +2331,19 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이촌역 4번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "station-to-hospital",
+      "ramp-safe",
+      "auto-door",
+      "elevator-access",
+      "parking-to-entrance",
+      "waiting-room-space",
+      "clinic-access",
+      "entrance-visible",
+      "signage-clear"
+    ]
   },
   {
     "dutyinf": "예약제",
@@ -2254,7 +2380,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1000",
     "dutymapimg": "신내 지하차도 교차로 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "1,3,5주 토요일 09:30~14:00 (점심시간 없이 계속 진료) / 2주,4주 토요일 09:30~16:00 (점심시간 13:00~14:30 )",
@@ -2291,7 +2418,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "3호선 압구정역 4,5번 출구 영석빌딩",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "공단검진가능(부인과검진)",
@@ -2328,7 +2456,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "강남역 1번 출구 국기원 사거리 앞",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "공단검진가능(부인과검진)",
@@ -2365,7 +2494,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "왕십리역 9번출구 7층.",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "목, 공휴일, 일요일 휴진",
@@ -2402,7 +2532,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1400",
     "dutymapimg": "선릉역 4번/역삼역 1번출구 4층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "봉합/교정/턱관절/임플란트",
@@ -2439,7 +2570,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1400",
     "dutymapimg": "용문시장 사거리 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "모발전문센터",
@@ -2476,7 +2608,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "압구정역 3번 출구 도보 5분",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "http://www.littledoctor.co.kr 유투브채널 꼬마한의사에 들어오시면 한의원 관련 정보들이 더 자세하게 기록되어있습니다. \r\n구안와사 이명난청 교통사고 후유증 산후풍 등 여성질환 관련 진료에 힘쓰고 있습니다.",
@@ -2513,7 +2646,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0900",
     "dutymapimg": "마포구청역 1번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "예약제로만 운영합니다. 예약없이 방문시 진료어렵습니다.",
@@ -2550,7 +2684,14 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "신홍빌딩 7층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "waiting-room-space",
+      "auto-door",
+      "clinic-access",
+      "hallway-wide",
+      "parking-to-entrance"
+    ]
   },
   {
     "dutyinf": "점심시간 1~2시",
@@ -2587,7 +2728,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "성수역 1번 출구, 성수2가제3동주민센터 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "분만X",
@@ -2624,7 +2766,8 @@
     "dutytime6s": "1100",
     "dutytime4s": "1000",
     "dutymapimg": "망원시장 동문 1GATE 옆 2층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "다양한 통증 관련클리닉,도수,체외충격파,영양수액요법등의 비수술 치료를 하고 있습니다.",
@@ -2661,7 +2804,8 @@
     "dutytime6s": "0940",
     "dutytime4s": "0940",
     "dutymapimg": "삼각지역 용산소방서 옆",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["signage-clear", "elevator-access"]
   },
   {
     "dutyinf": "13~14 점심시간",
@@ -2698,7 +2842,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "서울남영동 우체국 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "목요일 휴진",
@@ -2735,7 +2880,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "숭실대입구역 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "미용성형 위주",
@@ -2772,7 +2918,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "4호선충무로역 5,6번출구 도보2분거리",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심13-14시/ 주차가능 \n2019년 9월 1일자로 바로옆 사랑의 치과와 티월드가 위치한 승희빌딩 5층으로 확장 이전 하였습니다.",
@@ -2809,7 +2956,13 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "양재 코스트코 맞은편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "ramp-safe",
+      "auto-door",
+      "parking-to-entrance",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "정영희산부인과와 번호 같이 사용",
@@ -2846,7 +2999,14 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "보광동 주민센터 인근",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "ramp-safe",
+      "signage-clear",
+      "hallway-wide",
+      "auto-door",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "13:00~14:00 점심시간 \n대기가 많은 경우 조기 접수 마감이 될 수 있는 점 양해바랍니다.",
@@ -2883,7 +3043,17 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "효창공원역 근처/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "clinic-access",
+      "signage-clear",
+      "elevator-access",
+      "entrance-visible",
+      "auto-door",
+      "waiting-room-space",
+      "hallway-wide",
+      "ramp-safe"
+    ]
   },
   {
     "dutyinf": "진료전 연락필요/",
@@ -2920,7 +3090,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "신트리공원앞 교차로 신트리네거리 상가",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "분만실에서 24시간 야간진료",
@@ -2957,7 +3128,15 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "정문 세븐일레븐 보광점 2층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "parking-to-entrance",
+      "station-to-hospital",
+      "ramp-safe",
+      "entrance-visible",
+      "auto-door",
+      "signage-clear"
+    ]
   },
   {
     "dutyinf": "관절, 척추, 신경과, 내과, 건강검진, 24시 응급 진료",
@@ -2994,7 +3173,17 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "원효로2가 사거리",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "auto-door",
+      "signage-clear",
+      "waiting-room-space",
+      "parking-to-entrance",
+      "ramp-safe",
+      "clinic-access",
+      "hallway-wide"
+    ]
   },
   {
     "dutyinf": "중앙행정기관",
@@ -3031,7 +3220,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "용산구 용산고 옆",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "중앙동[=봉천10동] =현대시장 네거리에서 남[남부순환도로]쪽으로 약 100미터.[선샤인빌딩,문박사 약국 2층.]",
@@ -3068,7 +3258,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0910",
     "dutymapimg": "낙성대역 1번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "외과전문의진료 및 가정의학과 진료",
@@ -3105,7 +3296,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "용산고등학교에서 남산방향 150m 거리에 위치",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "외과전문의진료 및 가정의학과 진료",
@@ -3142,81 +3334,19 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "인왕산한신휴플러스아파트 인근",
-    "dummyAccessibility": "accessible"
-  },
-  {
-    "dutyinf": "외과전문의진료 및 가정의학과 진료",
-    "dutytel3": "02-2007-1118",
-    "dutytel1": "02-6956-0059",
-    "dutydivnam": "의원",
-    "dutytime2c": "2000",
-    "dutyeryn": "2",
-    "dutytime6c": "1800",
-    "dutytime8c": "1400",
-    "dutytime4c": "2000",
-    "wgs84lat": "37.5302166820111",
-    "dutydiv": "C",
-    "dutytime1s": "1000",
-    "wgs84lon": "126.967776259525",
-    "dutytime5s": "1000",
-    "dutytime8s": "1000",
-    "postcdn2": "76",
-    "postcdn1": "043",
-    "dutytime3s": "1000",
-    "dutytime3c": "2000",
-    "dutyemclsname": "응급의료기관 이외",
-    "dutytime1c": "2000",
-    "dutytime7s": "1000",
-    "dutyemcls": "G099",
-    "dutyname": "밴스의원",
-    "dutyetc": "점심시간 13:00~14:00",
-    "hpid": "A1124487",
-    "dutytime5c": "2000",
-    "dutyaddr": "서울특별시 용산구 새창로 217, 용산토투밸리 15층 1501호 (한강로2가)",
-    "dutytime7c": "1800",
-    "dutytime2s": "1000",
-    "work_dttm": 1707285375000,
-    "dutytime6s": "1000",
-    "dutytime4s": "1000",
-    "dutymapimg": "인왕산한신휴플러스아파트 인근",
-    "dummyAccessibility": "inaccessible"
-  },
-  {
-    "dutyinf": "성동구 피부과 필러 보톡스, 제모, 여드름, 비만, 리프팅, 색소질환, 피부과, 미라클주사\n시술계의 마이다스 손, 오직 이경락 원장만이 가능한 마법과 같은 작은얼굴만들기!\n불필요한 부위는 미라클주사를 이용하여 빼고, 필요한부위는 필러로!",
-    "dutytel3": "02-2007-1118",
-    "dutytel1": "02-6956-0059",
-    "dutydivnam": "의원",
-    "dutytime2c": "2000",
-    "dutyeryn": "2",
-    "dutytime6c": "1800",
-    "dutytime8c": "1400",
-    "dutytime4c": "2000",
-    "wgs84lat": "37.5302166820111",
-    "dutydiv": "C",
-    "dutytime1s": "1000",
-    "wgs84lon": "126.967776259525",
-    "dutytime5s": "1000",
-    "dutytime8s": "1000",
-    "postcdn2": "76",
-    "postcdn1": "043",
-    "dutytime3s": "1000",
-    "dutytime3c": "2000",
-    "dutyemclsname": "응급의료기관 이외",
-    "dutytime1c": "2000",
-    "dutytime7s": "1000",
-    "dutyemcls": "G099",
-    "dutyname": "벤스의원",
-    "dutyetc": "점심시간 13:00~14:00",
-    "hpid": "A1124481",
-    "dutytime5c": "2000",
-    "dutyaddr": "서울특별시 용산구 새창로 217, 용산토투밸리 15층 1501호 (한강로2가)",
-    "dutytime7c": "1800",
-    "dutytime2s": "1000",
-    "work_dttm": 1707285375000,
-    "dutytime6s": "1000",
-    "dutytime4s": "1000",
-    "dutymapimg": "천왕역 2번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "ramp-safe",
+      "auto-door",
+      "parking-to-entrance",
+      "clinic-access",
+      "entrance-visible",
+      "waiting-room-space",
+      "signage-clear",
+      "elevator-access",
+      "station-to-hospital"
+    ]
   },
   {
     "dutyinf": "새 이가 난듯 편안하고 자연스러운 치료를 약속드리는 보라매 새이나치과입니다:)",
@@ -3253,7 +3383,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "신용산역 1번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "투석,전문재활,뇌졸중,뇌경색,치매,호스피스,수술후 요양,신경계 질환,사지마비,암 요양 전문 요양병원입니다.",
@@ -3290,7 +3421,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "이촌역 3-1번출구/한강쇼핑센터 307호",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "성동구 피부과 필러 보톡스, 제모, 여드름, 비만, 리프팅, 색소질환, 피부과, 미라클주사\n시술계의 마이다스 손, 오직 이경락 원장만이 가능한 마법과 같은 작은얼굴만들기!\n불필요한 부위는 미라클주사를 이용하여 빼고, 필요한부위는 필러로!",
@@ -3327,7 +3459,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "보광동 중소기업은행 옆",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "한의학박사/재활의학 전문의진료\n한방특수클리닉 운영\n교통사고환자 진료",
@@ -3364,7 +3497,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "트윈빌아파트 앞",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내과, 소아과, 이비인후과, 피부과",
@@ -3401,7 +3535,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "국민은행 개포남지점 맞은편",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내과, 소아과, 이비인후과, 피부과",
@@ -3438,7 +3573,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "홍제역 4번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "한방 다이어트 캡슐, 비염치료 배농치료, 만성통증. 한의학박사, 전문의, 여한의사 진료",
@@ -3475,7 +3611,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "양재역 2번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "피부미용",
@@ -3512,7 +3649,17 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "한남오거리 인근",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "waiting-room-space",
+      "auto-door",
+      "ramp-safe",
+      "clinic-access",
+      "hallway-wide",
+      "entrance-visible",
+      "station-to-hospital",
+      "elevator-access"
+    ]
   },
   {
     "dutyinf": "미용성형 위주",
@@ -3549,7 +3696,13 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "4호선충무로역 5,6번출구 도보2분거리",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "auto-door",
+      "signage-clear",
+      "ramp-safe"
+    ]
   },
   {
     "dutyinf": "성형외과",
@@ -3586,7 +3739,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "신용산역 4번출국에서 나와 바로 보이는 건물 B동 2층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "교정전문치과(교정진료만 함)",
@@ -3623,7 +3777,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1100",
     "dutymapimg": "아이파크몰 5층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "서울시 강동구 굽은다리역에 위치한 사랑플러스병원은 보건복지인증 의료기관으로 로봇인공관절/척추수술 통합 의료기관입니다.\n고객센터 1661-9991, 점심시간 12:30 ~ 13:30",
@@ -3660,7 +3815,12 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "석일빌딩5층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "signage-clear",
+      "parking-to-entrance",
+      "station-to-hospital"
+    ]
   },
   {
     "dutyinf": "19:10까지 접수완료",
@@ -3697,7 +3857,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "용산역 0017번 마을버시 두정거장 하차. 서부이촌동 입구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "서울시 동대문구 휘경동 소재 치과종합병원",
@@ -3734,7 +3895,13 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "용문시장 인근",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "auto-door",
+      "entrance-visible",
+      "signage-clear",
+      "station-to-hospital"
+    ]
   },
   {
     "dutyinf": "토요일이 공휴일인 경우 진료함",
@@ -3771,7 +3938,17 @@
     "dutytime6s": "1000",
     "dutytime4s": "0900",
     "dutymapimg": "등촌3동 성당 맞은편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "station-to-hospital",
+      "entrance-visible",
+      "signage-clear",
+      "waiting-room-space",
+      "elevator-access",
+      "hallway-wide",
+      "auto-door",
+      "parking-to-entrance"
+    ]
   },
   {
     "dutyinf": "예약 필수(장애인 화요일만 진료가능)",
@@ -3808,7 +3985,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "신논현역 1번 출구 인근 신영빌딩 3층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "상세한 진단과 꼼꼼한 치료를 진행하는 서리풀한의원입니다",
@@ -3845,7 +4023,16 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "구의역 4번출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "station-to-hospital",
+      "hallway-wide",
+      "waiting-room-space",
+      "clinic-access",
+      "entrance-visible",
+      "elevator-access",
+      "parking-to-entrance"
+    ]
   },
   {
     "dutyinf": "의료진의 지혜로움으로 여성의 신비로움에 이로움을 드리겠습니다.",
@@ -3882,7 +4069,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "아이비에스빌딩 4층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "정확한 진단부터 친절한 설명, 정교한 시술, 다년간의 경험, 철저한 사후관리까지 환자의 입장에서 더 많이 듣고 배려하는 진료가 이루어질 수 있도록 최선을 다하겠습니다.",
@@ -3919,7 +4107,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이마트(성수점) 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "추나요법, 교통사고후유증, 통증, 불임(난임)",
@@ -3956,7 +4145,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "삼익아파트상가동 203호",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "서울비뇨기과의원 입니다.\n24시간요로결석 쇄석실 운영하고 있어 야간이나 휴일에도 언제든 체외충격파쇄석술이 가능합니다.\n응급전화 시 30분 내 출동해 요로결석치료 도와드리고 있습니다.",
@@ -3993,7 +4183,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "숙대입구역 1번출구 또는 남영역 1번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "비뇨기과",
@@ -4030,7 +4221,19 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "경리단길 대성교회 맞은편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "signage-clear",
+      "station-to-hospital",
+      "auto-door",
+      "elevator-access",
+      "ramp-safe",
+      "parking-to-entrance",
+      "waiting-room-space",
+      "entrance-visible",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "점심시간(토요일)13~14// 365일 진료//",
@@ -4067,7 +4270,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "국민은행 이촌동지점 건물 4층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "비뇨기과",
@@ -4104,7 +4308,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1400",
     "dutymapimg": "경리단길 대성교회 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "교정전문/",
@@ -4141,7 +4346,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0900",
     "dutymapimg": "역삼역 6번출구 송암II빌딩",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "매월 셋째 주 토요일 휴진",
@@ -4178,7 +4384,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이태원역 3번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "서울엔(N)비뇨기과 청량리점",
@@ -4215,7 +4422,14 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "숙대입구역 8번 출구 바로앞",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "auto-door",
+      "signage-clear",
+      "parking-to-entrance",
+      "entrance-visible",
+      "station-to-hospital"
+    ]
   },
   {
     "dutyinf": "서울엔(N)비뇨기과 청량리점",
@@ -4252,7 +4466,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "공덕역 3번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "서울엔(N)비뇨기과 청량리점",
@@ -4289,7 +4504,15 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "공덕역 3번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "hallway-wide",
+      "ramp-safe",
+      "parking-to-entrance",
+      "clinic-access",
+      "elevator-access"
+    ]
   },
   {
     "dutyinf": "셋째주 일요일 휴진",
@@ -4326,7 +4549,17 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "발산역 6번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "auto-door",
+      "entrance-visible",
+      "ramp-safe",
+      "clinic-access",
+      "elevator-access",
+      "signage-clear",
+      "parking-to-entrance"
+    ]
   },
   {
     "dutyinf": "내과, 가정의학과, 건강검진, 통합기능의학 진료",
@@ -4363,7 +4596,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1400",
     "dutymapimg": "역삼역 3번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "서울의료복지사회적협동조합에서 운영하는 우리네치과입니다. 조합원 그리고 지역주민과 함께 성장하는 치과입니다. 많은 방문 부탁드립니다.",
@@ -4400,7 +4634,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "서울역 근처/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["parking-to-entrance", "station-to-hospital"]
   },
   {
     "dutyinf": "서초",
@@ -4437,7 +4672,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "노원역 6번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내과, 정형통증 치료하는 의원입니다,",
@@ -4474,7 +4710,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "남영역 1번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "근골격계 통증, 외상을 포함, 내과적 질환에 대한 치료를 합니다. 평일 야간진료, 토요일, 일요일 진료 시행합니다.",
@@ -4511,7 +4748,14 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "효창공원역 근처/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "ramp-safe",
+      "parking-to-entrance",
+      "hallway-wide",
+      "auto-door",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "평일 13시~ 14:20 점심/ 토요일 13~14시 점심시간/",
@@ -4548,7 +4792,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "신림역 2번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "미용성형 위주",
@@ -4585,7 +4830,8 @@
     "dutytime6s": "0910",
     "dutytime4s": "0910",
     "dutymapimg": "길동역 2번출구에서 핸드폰가게 4층 위치",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["hallway-wide", "parking-to-entrance", "elevator-access"]
   },
   {
     "dutyinf": "후암종점/",
@@ -4622,7 +4868,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "약수역 9번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내 가족처럼 성심껏 진료하는 서울홍치과입니다.",
@@ -4659,7 +4906,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "건대입구역 6번출구에서 직진 500m (성수사거리)",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내 가족처럼 성심껏 진료하는 서울홍치과입니다.",
@@ -4696,7 +4944,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "용산센트럴파크 해링턴스퀘어 상가",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내 가족처럼 성심껏 진료하는 서울홍치과입니다.",
@@ -4733,7 +4982,14 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "정릉대우아파트단지 앞",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "auto-door",
+      "parking-to-entrance",
+      "entrance-visible",
+      "signage-clear",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "내 가족처럼 성심껏 진료하는 서울홍치과입니다.",
@@ -4770,7 +5026,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "미아사거리역 6번 출구 롯데백화점 맞은편",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "정형외과",
@@ -4807,7 +5064,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "순천향대학병원 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "소아,피부,비뇨기과약처방 주사가능. 점심시간(토요일포함)13~14",
@@ -4844,7 +5102,8 @@
     "dutytime6s": "1030",
     "dutytime4s": "1030",
     "dutymapimg": "한강맨션상가 11동 204호",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "뇌신경센터, 소화기내시경센터, 관절센터 등을 운영하고 있으며 응급심혈관시술 가능, 응급의료센터는 24시간 전문의 직접 진료 가능.",
@@ -4881,7 +5140,14 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "리첸시아 3층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "station-to-hospital",
+      "auto-door",
+      "elevator-access",
+      "entrance-visible",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "365일 내과, 소아과 진료합니다.\n평일은 9시부터 23시까지\n주말 공휴일은 9시부터 21시까지 진료합니다.",
@@ -4918,7 +5184,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "이촌역 4번출구/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["entrance-visible", "hallway-wide", "signage-clear"]
   },
   {
     "dutyinf": "점심시간 : 13:00~14:00 (토요일은 점심시간 없음)\n목요일 휴진함",
@@ -4955,7 +5222,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "송정역 4번출구 우리은행 2층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "분만불가",
@@ -4992,7 +5260,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0940",
     "dutymapimg": "대림3동 사거리",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "공휴일 방문전 연락필요",
@@ -5029,7 +5298,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "압구정역 2번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "입원실 운영되고 있으며 물리 치료 및 도수 치료 전문 병원",
@@ -5066,7 +5336,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "한강쇼핑센타 2층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "성인진료X",
@@ -5103,7 +5374,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "숙대입구 10번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "성인진료X",
@@ -5140,7 +5412,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "서초역 7,8번출구 사이",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "대방동 주공아파트 단지내 가정의학과로 전반적인 일차진료와 필요시 2,3차 병원으로 진료의뢰를 담당하고 있습니다,\n: 고혈압, 당뇨, 고지혈증,등 만성 성인병질환, 코로나 진단검사 치료, 호흡기진료센터\n  호흡기 소화기관 질환, 피부질환\n   관절염, 통증치료 및 외상처치\n   각종 예방접종과 진단서 발급",
@@ -5177,7 +5450,15 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "숭의여중·고등학교 인근 대방주공2단지아파트 상가 내",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "ramp-safe",
+      "signage-clear",
+      "auto-door",
+      "hallway-wide",
+      "clinic-access",
+      "entrance-visible"
+    ]
   },
   {
     "dutyinf": "서울대학교 치과대학 삼성의료원 출신 전문의 집앞에서 최선의 진료를 교정 임플란트 보철",
@@ -5214,7 +5495,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "연신내역 3번출구 하나은행 옆건물",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "2002년부터 진료중",
@@ -5251,7 +5533,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "중계역 6번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "비만/비염/통증(어깨 허리 무릎)",
@@ -5288,7 +5571,19 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "효창공원앞역 2번출구 금양초 맞은편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "waiting-room-space",
+      "parking-to-entrance",
+      "hallway-wide",
+      "ramp-safe",
+      "station-to-hospital",
+      "clinic-access",
+      "auto-door",
+      "elevator-access",
+      "signage-clear"
+    ]
   },
   {
     "dutyinf": "수면클리닉의원",
@@ -5325,7 +5620,17 @@
     "dutytime6s": "0700",
     "dutytime4s": "0700",
     "dutymapimg": "1호선 남영역 1번출구,4호선 숙대입구 7번출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "waiting-room-space",
+      "hallway-wide",
+      "ramp-safe",
+      "clinic-access",
+      "elevator-access",
+      "station-to-hospital",
+      "auto-door",
+      "parking-to-entrance"
+    ]
   },
   {
     "dutyinf": "정신분석클리닉; 정신치료클리닉;우울 불안 클리닉",
@@ -5362,7 +5667,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "송정역 3번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "1-2",
@@ -5399,7 +5705,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "한남오거리",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "한방재활의학과 전문의가 진료하는 척추관절통증, 비만, 체형교정치료를 전문으로 하는 한의원입니다.",
@@ -5436,7 +5743,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "장한평역 4번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "2째주 토요일은 13시까지만 진료/",
@@ -5473,7 +5781,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "평창동 주민센터 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "2째주 토요일은 13시까지만 진료/",
@@ -5510,7 +5819,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "신용산역 5번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "왕뜸, 약침, 한약으로 허리, 어깨, 목의 통증을 치료합니다. 자동차 사고 치료와 사상 체질, 불임, 만성 대사성 질환 클리닉을 운영합니다. 편안한 마음과 적절한 섭생이 건강한 심신으로 연결되도록 안내합니다.",
@@ -5547,7 +5857,17 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "이촌역 인근 한강쇼핑센터 302호",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "auto-door",
+      "hallway-wide",
+      "parking-to-entrance",
+      "clinic-access",
+      "station-to-hospital",
+      "entrance-visible",
+      "ramp-safe",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "교정(소아,성인)",
@@ -5584,7 +5904,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "내방역 8번 출구 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일반진료/미용진료",
@@ -5621,7 +5942,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "아이파크몰 리빙관 6층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "장안동에서 15년 이상 자리를 지키며 환자분들께 최선의 진료를 제공하기 위해 항상 노력하고있습니다.^^",
@@ -5658,7 +5980,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "용문시장 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "평일 접수마감 18:40 / 토요일 접수마감 13:30\n평일 점심시간 13:00 ~ 14:30\n토요일은 점심시간 없이 진료",
@@ -5695,7 +6018,8 @@
     "dutytime6s": "0800",
     "dutytime4s": "0800",
     "dutymapimg": "이튼타워리버주상복합",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["hallway-wide", "entrance-visible", "station-to-hospital"]
   },
   {
     "dutyinf": "첫째주,셋째주 토요일 휴무",
@@ -5732,7 +6056,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "하계역 5번출구 근처/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["entrance-visible", "parking-to-entrance", "auto-door"]
   },
   {
     "dutyinf": "첫째주,셋째주 토요일 휴무",
@@ -5769,7 +6094,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "마포역 3번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "송파구 방이동 방이시장에 위치한 약선당 한의원입니다. (송파구 방이동 142-4 / 02-2202-1080) ◎왕뜸 ◎자동차보험치료 ◎통증약침 ◎일요일,공휴일 진료 ◎추나요법",
@@ -5806,44 +6132,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1400",
     "dutymapimg": "대림아파트 인근",
-    "dummyAccessibility": "inaccessible"
-  },
-  {
-    "dutyinf": "점심시간 - 12:30~13:30",
-    "dutytel3": "02-2019-3333",
-    "dutytel1": "02-790-0077",
-    "dutydivnam": "치과의원",
-    "dutytime2c": "1830",
-    "dutyeryn": "2",
-    "dutytime6c": "1400",
-    "dutytime8c": "1300",
-    "dutytime4c": "1830",
-    "wgs84lat": "37.52772793089308",
-    "dutydiv": "N",
-    "dutytime1s": "0930",
-    "wgs84lon": "126.9668538805553",
-    "dutytime5s": "0930",
-    "dutytime8s": "0900",
-    "postcdn2": "87",
-    "postcdn1": "043",
-    "dutytime3s": "0930",
-    "dutytime3c": "1830",
-    "dutyemclsname": "응급의료기관 이외",
-    "dutytime1c": "1830",
-    "dutytime7s": "0900",
-    "dutyemcls": "G099",
-    "dutyname": "용산엠치과의원",
-    "dutyetc": "소아(3세이상)/ 봉합/ 교정/ 턱관절/대표번호1 지역번호 추가20170118150453",
-    "hpid": "A1110845",
-    "dutytime5c": "1830",
-    "dutyaddr": "서울특별시 용산구 한강대로 84-1 (한강로2가)",
-    "dutytime7c": "1300",
-    "dutytime2s": "0930",
-    "work_dttm": 1612677307000,
-    "dutytime6s": "0930",
-    "dutytime4s": "0930",
-    "dutymapimg": "4호선 신용산역 2번출구 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "치과 전과목 진료(교정, 임플란트 포함)",
@@ -5880,7 +6170,8 @@
     "dutytime6s": "0800",
     "dutytime4s": "0800",
     "dutymapimg": "망원역 1번출구 바로앞",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "여성형유방증, 하지정맥류, 다한증, 액취증, 가슴성형 \n흉부심혈관외과",
@@ -5917,7 +6208,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "신방화역 6번출구 바로앞",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "피부과",
@@ -5954,7 +6246,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "교대역 14번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "분만가능(야간-초진불가)/수액/유방초음파/유방암검사",
@@ -5991,7 +6284,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "명동역 9번출구/",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "야간진료\n - 월~금: 20시까지, 토: 17시까지",
@@ -6028,7 +6322,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "삼각지역 1번출구 나와서 우리은행 뒤편 2층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간은 오후 1시~2시20분까지 입니다.",
@@ -6065,7 +6360,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "수유역 8번출구 인근/광산사거리",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "피부과",
@@ -6102,7 +6398,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "강남역 6,7번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "예약제운영",
@@ -6139,7 +6436,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이촌역 1번 출구 파크타워아파트 26호",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "마리아쥬니어치과 옆/",
@@ -6176,7 +6474,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "남영역1번출구 삼이빌딩 4층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["signage-clear", "entrance-visible"]
   },
   {
     "dutyinf": "점심시간 12:30~13:30/토요일은 점심시간 없이 진료",
@@ -6213,7 +6512,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "숙대입구역 7번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수액0 /혈액검사0 /심전도0 /초음파0 /소독0 /봉합0 /화상0",
@@ -6250,7 +6550,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "6호선 효창공원역 2번출구 근처/금양초등학교 맡은편",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수액처치O/소아진료X",
@@ -6287,7 +6588,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "서울디지털직업전문학교 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "토요일(13:00~14:00 점심시간)",
@@ -6324,7 +6626,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0900",
     "dutymapimg": "6호선 구산역 1번출구 근처/",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "코로나로 인하여 평일 진료를 30분 단축합니다. 코로나 상황이 좋아지면 다시 진료를 연장하겠습니다.",
@@ -6361,7 +6664,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "장승배기역 2번출구 나와서 세계로 약국 2층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "인공신장실 운영시간 별도",
@@ -6398,7 +6702,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "이촌역 3-1번 출구 방향",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "화요일 야간진료",
@@ -6435,7 +6740,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "서울한강3가우편취급국 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "통증의학과 전문의 2인과 재활의학과 전문의 1인이 척추, 관절 등 근골격계 질환을 진료하는 의원입니다. \n물리치료사 10인과 방사선사 3인이 진료와 치료를 돕고 있습니다.\nX-ray, 골밀도 측정기, C-arm, 체형분석기 등의 진단장비와 체외충격파, ICT, Laser 등의 치료 장비를 구비하고 있습니다.",
@@ -6472,7 +6778,15 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "경리단 하얏트 호텔 올라가는길 중간",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "waiting-room-space",
+      "ramp-safe",
+      "parking-to-entrance",
+      "station-to-hospital",
+      "elevator-access"
+    ]
   },
   {
     "dutyinf": "소아청소년과 전문의.",
@@ -6509,7 +6823,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "숙대입구 9번 출구 앞 남영빌딩 403호",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "이비인후과는 토요일 휴진",
@@ -6546,7 +6861,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이촌역 4번출구 중경고등학교 입구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "예약제로 운영",
@@ -6583,7 +6899,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1400",
     "dutymapimg": "남영역 1번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["ramp-safe", "auto-door"]
   },
   {
     "dutyinf": "보철과,보존과,교정과 3인 전문의 원장님이 진료하고 계십니다.",
@@ -6620,7 +6937,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "한양아파트단지 맞은 편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "휴업: 2018.10.31",
@@ -6657,7 +6975,19 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "이촌역(거리가 조금있음)/ 강촌아파트 맞은편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "ramp-safe",
+      "hallway-wide",
+      "signage-clear",
+      "waiting-room-space",
+      "auto-door",
+      "elevator-access",
+      "entrance-visible",
+      "station-to-hospital",
+      "clinic-access",
+      "parking-to-entrance"
+    ]
   },
   {
     "dutyinf": "휴업: 2018.10.31",
@@ -6694,7 +7024,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "잠실새내역 8번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "평일점심시간13:00-14:30/수요일저녁시간17:30-18:00/토요일점심시간13:00-14:00/",
@@ -6731,7 +7062,18 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "용문시장입구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "ramp-safe",
+      "hallway-wide",
+      "auto-door",
+      "station-to-hospital",
+      "clinic-access",
+      "parking-to-entrance",
+      "entrance-visible",
+      "waiting-room-space",
+      "signage-clear"
+    ]
   },
   {
     "dutyinf": "미용성형 위주",
@@ -6768,7 +7110,15 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "불광역 롯데리아/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "parking-to-entrance",
+      "hallway-wide",
+      "clinic-access",
+      "auto-door",
+      "elevator-access",
+      "station-to-hospital"
+    ]
   },
   {
     "dutyinf": "영림내과입니다. 점심시간은 평일 12시 ~ 1시30분 까지이며, 목요일, 토요일은 점심시간 없이 운영하고 있습니다.",
@@ -6805,7 +7155,17 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "용문시장 인근",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "waiting-room-space",
+      "ramp-safe",
+      "auto-door",
+      "elevator-access",
+      "entrance-visible",
+      "station-to-hospital",
+      "signage-clear"
+    ]
   },
   {
     "dutyinf": "예약제로 운영",
@@ -6842,7 +7202,19 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "이촌역 3-1번출구 도보10분, LG프라자 304호",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "clinic-access",
+      "entrance-visible",
+      "ramp-safe",
+      "signage-clear",
+      "parking-to-entrance",
+      "hallway-wide",
+      "auto-door",
+      "station-to-hospital",
+      "waiting-room-space",
+      "elevator-access"
+    ]
   },
   {
     "dutyinf": "예약제로 운영",
@@ -6879,7 +7251,16 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "강남역 10번 출구에서 신논현역 방향",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "clinic-access",
+      "parking-to-entrance",
+      "entrance-visible",
+      "auto-door",
+      "waiting-room-space",
+      "hallway-wide",
+      "station-to-hospital"
+    ]
   },
   {
     "dutyinf": "갑상선/유방암센터/드레싱/토요일진료불규칙적",
@@ -6916,7 +7297,8 @@
     "dutytime6s": "0940",
     "dutytime4s": "1600",
     "dutymapimg": "이대역 6번출구 근처",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "평일 17시30분 접수마감/",
@@ -6953,7 +7335,8 @@
     "dutytime6s": "1030",
     "dutytime4s": "1030",
     "dutymapimg": "국군재정관리공단 근처",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "모발이식 전문 피부과",
@@ -6990,7 +7373,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "풍전아파트 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "강남 서울 휴 재활의학과 김동현 원장 개원, 10년 이상의 임상경험 보유 강남역 5번 출구 재활의학과",
@@ -7027,7 +7411,17 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "신사역 2번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "station-to-hospital",
+      "waiting-room-space",
+      "parking-to-entrance",
+      "entrance-visible",
+      "auto-door",
+      "ramp-safe",
+      "clinic-access",
+      "signage-clear"
+    ]
   },
   {
     "dutyinf": "가정의학과 전문의가 진료합니다. 진료 과목은 내과,소아청소년과,이비인후과,피부과,통증 진료및 수액실 운영 합니다.",
@@ -7064,7 +7458,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "효창공원역 근처/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["hallway-wide"]
   },
   {
     "dutyinf": "가정의학과 전문의가 진료합니다. 진료 과목은 내과,소아청소년과,이비인후과,피부과,통증 진료및 수액실 운영 합니다.",
@@ -7101,7 +7496,18 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "효창공원앞역 4번 출구 용문시장 교차로",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "ramp-safe",
+      "auto-door",
+      "parking-to-entrance",
+      "elevator-access",
+      "waiting-room-space",
+      "hallway-wide",
+      "station-to-hospital",
+      "entrance-visible",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "가정의학과 전문의가 진료합니다. 진료 과목은 내과,소아청소년과,이비인후과,피부과,통증 진료및 수액실 운영 합니다.",
@@ -7138,7 +7544,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "삼성테마트 3층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "가정의학과 전문의가 진료합니다. 진료 과목은 내과,소아청소년과,이비인후과,피부과,통증 진료및 수액실 운영 합니다.",
@@ -7175,7 +7582,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "삼성테마트 3층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "가정의학과 전문의가 진료합니다. 진료 과목은 내과,소아청소년과,이비인후과,피부과,통증 진료및 수액실 운영 합니다.",
@@ -7212,7 +7620,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "남영역 1번 출구에서 158m",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "가정의학과 전문의가 진료합니다. 진료 과목은 내과,소아청소년과,이비인후과,피부과,통증 진료및 수액실 운영 합니다.",
@@ -7249,7 +7658,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "강북소방서 인근, 카페베네 삼양사거리점",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "가정의학과 전문의가 진료합니다. 진료 과목은 내과,소아청소년과,이비인후과,피부과,통증 진료및 수액실 운영 합니다.",
@@ -7286,7 +7696,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "강북소방서 인근, 카페베네 삼양사거리점",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "가정의학과 전문의가 진료합니다. 진료 과목은 내과,소아청소년과,이비인후과,피부과,통증 진료및 수액실 운영 합니다.",
@@ -7323,7 +7734,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "강북소방서 인근, 카페베네 삼양사거리점",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "가정의학과 전문의가 진료합니다. 진료 과목은 내과,소아청소년과,이비인후과,피부과,통증 진료및 수액실 운영 합니다.",
@@ -7360,7 +7772,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "강북소방서 인근, 카페베네 삼양사거리점",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수액O/소아진료X",
@@ -7397,7 +7810,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0900",
     "dutymapimg": "2층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "신용산역 5번 출구 바로 앞에 위치한 용산정형외과입니다.",
@@ -7434,7 +7848,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "2층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "신용산역 5번 출구 바로 앞에 위치한 용산정형외과입니다.",
@@ -7471,7 +7886,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "2층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "신용산역 5번 출구 바로 앞에 위치한 용산정형외과입니다.",
@@ -7508,7 +7924,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "2층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "주로 피부질환을 치료하는 피부과 전문의 병원입니다.",
@@ -7545,7 +7962,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "보광재래시장 상가 위치",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "힘과 생기를 드리는 우렁찬한의원 입니다.",
@@ -7582,7 +8000,8 @@
     "dutytime6s": "0800",
     "dutytime4s": "0900",
     "dutymapimg": "공덕역 3번 출구 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "송파구 문정동에 위치한 우리공감 정신건강의학과 의원입니다.\n소아정신과 전문의이자 정신건강의학과 전문의가 심도깊게 상담 및 진료합니다.\n성인 및 소아청소년 관련 심리 상담 및 검사 가능합니다.",
@@ -7619,7 +8038,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "이촌역 4번 출구 리버뷰아파트",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "송파구 문정동에 위치한 우리공감 정신건강의학과 의원입니다.\n소아정신과 전문의이자 정신건강의학과 전문의가 심도깊게 상담 및 진료합니다.\n성인 및 소아청소년 관련 심리 상담 및 검사 가능합니다.",
@@ -7656,7 +8076,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "금양초등학교 뒷편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "송파구 문정동에 위치한 우리공감 정신건강의학과 의원입니다.\n소아정신과 전문의이자 정신건강의학과 전문의가 심도깊게 상담 및 진료합니다.\n성인 및 소아청소년 관련 심리 상담 및 검사 가능합니다.",
@@ -7693,7 +8114,8 @@
     "dutytime6s": "0845",
     "dutytime4s": "0845",
     "dutymapimg": "금양초등학교 뒷편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "평일은 17:30~18시에 마감/주말은 12시~13시 마감/",
@@ -7730,7 +8152,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "미아역 3번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "평일은 17:30~18시에 마감/주말은 12시~13시 마감/",
@@ -7767,7 +8190,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "6호선 효창공원역 6번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "정형외과 전문진료",
@@ -7804,7 +8228,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이촌역 근처",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "12시부터 13시는 수술 시간 입니다.\n진료 내원시 참고 바랍니다.",
@@ -7841,7 +8266,16 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "숙대입구역 1번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "auto-door",
+      "ramp-safe",
+      "hallway-wide",
+      "elevator-access",
+      "signage-clear",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "사상체질 8체질 한의원",
@@ -7878,7 +8312,12 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "기업은행 보광동출장소 인근",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "parking-to-entrance",
+      "entrance-visible",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "안녕하세요. 개인을 위한 맞춤 진료, 원스클리닉 입니다.",
@@ -7915,7 +8354,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "신용산역 5번출구 0017번 타고 용문시장 하차",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "안녕하세요. 개인을 위한 맞춤 진료, 원스클리닉 입니다.",
@@ -7952,7 +8392,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "원효상가 207~8호",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내과, 가정의학과, 건강검진, 조기암검진(위, 간, 대장), 종합검사",
@@ -7989,7 +8430,16 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "위례동주민센터 건너편 에스비트램스퀘어 3층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "station-to-hospital",
+      "auto-door",
+      "signage-clear",
+      "elevator-access",
+      "ramp-safe",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "가족을 진료하는 마음으로 정성을 다하는 유디치과의원 화곡점입니다.\n\n오시는 길\n5호선 화곡역 3번출구로 나오셔서, 버스 이용.\n강서구청 정류장 하차\n150m 아래쪽 신한은행 건물 3층에 유디치과가 위치해 있습니다.^^\n\n건물주차장 이용",
@@ -8026,7 +8476,18 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "1호선 남영역 1번출구로 나와 우측으로 걸으면 기업은행과 해태크라운 사이 수빌딩 (도보 5분)",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "parking-to-entrance",
+      "station-to-hospital",
+      "waiting-room-space",
+      "hallway-wide",
+      "ramp-safe",
+      "signage-clear",
+      "elevator-access",
+      "auto-door",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "가족을 진료하는 마음으로 정성을 다하는 유디치과의원 가산점입니다.\n\n오시는 길\n1호선 7번출구, 7호선 6번출구 에이스테크노타워 10차 3층\n건물주차장 이용",
@@ -8063,7 +8524,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "숙대입구역 6번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "13-14 점심시간",
@@ -8100,7 +8562,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "용산파크자이상가1층 D동1호",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "입원실없음, 피부과없음",
@@ -8137,7 +8600,15 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "석촌고분역 3번출구 공익빌딩 2층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "parking-to-entrance",
+      "ramp-safe",
+      "clinic-access",
+      "elevator-access",
+      "waiting-room-space",
+      "signage-clear"
+    ]
   },
   {
     "dutyinf": "류마티스내과 전문병원/ 일반내과 진료 가능",
@@ -8174,7 +8645,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "신용산역 3번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "류마티스내과 전문병원/ 일반내과 진료 가능",
@@ -8211,7 +8683,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "4호선 한성대입구역 1번출구. 스타벅스 건물 4층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["hallway-wide", "ramp-safe"]
   },
   {
     "dutyinf": "서울의대졸업후 서울대병원 산부인전공의수료후 전문의취득하고 서울대병원에서 불임및생식내분비분야전임의/유전학전임의 등 2년마치고 서울의대 산부인과 의학박사 학위 취득후 을지대병원교수 적십자병원 산부인과과장을 역임하였습니다. 자궁출혈/생리불규칙/질염및 자궁경부염/난임/유방초음파/갱년기치료/여의사",
@@ -8248,7 +8721,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "효창공원역 1번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내시경 전문",
@@ -8285,7 +8759,16 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "화곡동 대림아파트 후문",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "station-to-hospital",
+      "auto-door",
+      "entrance-visible",
+      "ramp-safe",
+      "waiting-room-space",
+      "elevator-access",
+      "parking-to-entrance"
+    ]
   },
   {
     "dutyinf": "참좋은치과는 20년 넘게 한 자리에서, 고객분들의 구강 건강을 지켜왔습니다. 다양한 임상 경험으로 진료에 대한 노하우는 물론 고객의 마음까지 헤아리는 치과 의사와 전원 치과 위생사로 구성된 진료팀이, 고객님 한 분 한 분을 위해 책임감 있고 따뜻한 진료 서비스를 제공합니다.",
@@ -8322,44 +8805,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "신동아APT상가 301호",
-    "dummyAccessibility": "unknown"
-  },
-  {
-    "dutyinf": "물리치료 가능",
-    "dutytel3": "02-905-9110",
-    "dutytel1": "02-705-9000",
-    "dutydivnam": "의원",
-    "dutytime2c": "1700",
-    "dutyeryn": "2",
-    "dutytime6c": "1220",
-    "dutytime8c": "1800",
-    "dutytime4c": "1700",
-    "wgs84lat": "37.5537686940882",
-    "dutydiv": "C",
-    "dutytime1s": "0830",
-    "wgs84lon": "126.968672506577",
-    "dutytime5s": "0830",
-    "dutytime8s": "0900",
-    "postcdn2": "00",
-    "postcdn1": "043",
-    "dutytime3s": "0830",
-    "dutytime3c": "1700",
-    "dutyemclsname": "응급의료기관 이외",
-    "dutytime1c": "1700",
-    "dutytime7s": "1000",
-    "dutyemcls": "G099",
-    "dutyname": "의료법인소화의원",
-    "dutyetc": "휴게시간 12:20-13:30\n접수시간 평일, 토, 공휴일 오전, 오후 상이할 수 있으므로 홈페이지 참조",
-    "hpid": "A1124366",
-    "dutytime5c": "1700",
-    "dutyaddr": "서울특별시 용산구 청파로 383, 종근당건강빌딩 2층 (서계동)",
-    "dutytime7c": "1700",
-    "dutytime2s": "0830",
-    "work_dttm": 1749276911000,
-    "dutytime6s": "0830",
-    "dutytime4s": "0830",
-    "dutymapimg": "지하철 4호선 수유역 5번 출구역 정면방향 3분거리",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수액처치/소아진료(만3세이상)/x-ray/혈액검사/심전도/위내시경/",
@@ -8396,7 +8843,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "낙성대역 1번출구에서 7~8분 소요",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "하나하나 보여주고 설명 잘하는 과잉진료없는 양심치과",
@@ -8433,7 +8881,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "이촌역 4번출구 한강맨션 11동 상가 203-1호",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "하나하나 보여주고 설명 잘하는 과잉진료없는 양심치과",
@@ -8470,7 +8919,16 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "이촌역 충신교회 근처",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "ramp-safe",
+      "parking-to-entrance",
+      "clinic-access",
+      "station-to-hospital",
+      "auto-door",
+      "elevator-access"
+    ]
   },
   {
     "dutyinf": "수액처치/ 유방초음파/",
@@ -8507,7 +8965,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "보라매역 6번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일요일,공휴일 휴무",
@@ -8544,7 +9003,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "신설동역 11번 출구 청계힐스테이트상가 가동 201호",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "충치치료, 예방치과, 심미치의학, 보철치료, 잇몸치료, 임플란트, 의치, 사랑니\n♥마음 편한 치과♥ 이앤치과입니다",
@@ -8581,7 +9041,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "크라운호텔 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일요일,공휴일 휴무",
@@ -8618,7 +9079,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "이촌역 4번 출구, 엘지프라자 4층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "본 원은 예약제가 아닌 오신 순서대로 접수하는 병원입니다.",
@@ -8655,7 +9117,13 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "숙대정문 50m 전",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "auto-door",
+      "elevator-access",
+      "signage-clear"
+    ]
   },
   {
     "dutyinf": "주차 가능",
@@ -8692,7 +9160,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "이촌역 4번출구, 큰도로 따라 직진, 한강쇼핑센터 2층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "주차 가능",
@@ -8729,7 +9198,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "이태원119안전센터 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "주차 가능",
@@ -8766,7 +9236,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "이태원119안전센터 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "주차 가능",
@@ -8803,7 +9274,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "용산아파트 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "주차 가능",
@@ -8840,7 +9312,16 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "이태원역 인근 현대안성타워",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "parking-to-entrance",
+      "elevator-access",
+      "waiting-room-space",
+      "clinic-access",
+      "auto-door",
+      "ramp-safe"
+    ]
   },
   {
     "dutyinf": "주차 가능",
@@ -8877,7 +9358,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "남산대림아파트 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "토요일 1,3주 휴무(5주토요일 진료)",
@@ -8914,7 +9396,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "나진상가 15동 2층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "3층/",
@@ -8951,7 +9434,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1000",
     "dutymapimg": "대지시장 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "안녕하세요? 최고의 치료가 될 수 있도록 최선을 다하는 구대한의원입니다. 머리떨림, 틱장애, 파킨슨병, 디스크 등의 질환을 치료합니다.",
@@ -8988,7 +9472,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "포시즌아파트 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "노원구 홈플러스 중계점 B2.",
@@ -9025,7 +9510,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이촌역/ 삼익상가 205호",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "허약아, 식욕부진,갱년기,교통사고,주부습진",
@@ -9062,7 +9548,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "먹골역 1번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "통증, 마비, 부인, 소아 전문진료 한의원 / 진료실별 전문의",
@@ -9099,7 +9586,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "사가정역 1번출구 아가페교회 건너편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "외국인 진료",
@@ -9136,7 +9624,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0800",
     "dutymapimg": "이태원역 2번출구/장미아파트 인근/",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일반적인 외과진료 하지 않음.",
@@ -9173,7 +9662,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "이촌역 3-1번 출구 한강맨션 상가",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "모발이식 전문",
@@ -9210,7 +9700,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "힐타워 3층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수액O/신생아부터/검사(혈액검사/x-ray/위내시경/심전도/초음파)",
@@ -9247,7 +9738,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "노원역 3번출구 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "안과만 진료함",
@@ -9284,7 +9776,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "방화사거리/",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "4주 일요일 진료 9:00~12:00",
@@ -9321,7 +9814,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "이촌역 1번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "전반적인 치과진료",
@@ -9358,7 +9852,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "4호선 숙대입구역 5번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "로하셀한의원 비대면 진료 가능 개개인의 체질에 맞춰 처방한 한약 다이어트 #뺄타임 #미미탕 #강남다이어트한의원 #강남다이어트한약",
@@ -9395,7 +9890,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "강남역 12번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["station-to-hospital"]
   },
   {
     "dutyinf": "장애인전문클리닉, 수면치료클리닉/소아(5세이상)/ 봉합(간단한)/ 교정(화요일2시~9시/ 2,4째 토요일)/ 턱관절/",
@@ -9432,7 +9928,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이태원역 4번 출구 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "고3까지 진료가능,예약제",
@@ -9469,7 +9966,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "종로3가역 15번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간 1~2시",
@@ -9506,7 +10004,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1330",
     "dutymapimg": "효창공원역 근처/삼성래미안상가 3층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "성인진료",
@@ -9543,7 +10042,16 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "효창공원 1번출구 근처/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "clinic-access",
+      "parking-to-entrance",
+      "station-to-hospital",
+      "elevator-access",
+      "entrance-visible",
+      "auto-door",
+      "signage-clear"
+    ]
   },
   {
     "dutyinf": "3층",
@@ -9580,7 +10088,16 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "숙대입구역 7번 출구 시티파크타워",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "elevator-access",
+      "hallway-wide",
+      "ramp-safe",
+      "signage-clear",
+      "waiting-room-space",
+      "station-to-hospital",
+      "auto-door"
+    ]
   },
   {
     "dutyinf": "공휴일 진료시간 불규칙 전화확인 필요",
@@ -9617,7 +10134,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1000",
     "dutymapimg": "이태원역 3번 출구  엔틱가구거리",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "소아진료(협조가능한)/봉합/교정/턱관절",
@@ -9654,7 +10172,14 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이촌역 4번출구 이촌파출소 맞은편 리버뷰맨션 309호",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "parking-to-entrance",
+      "hallway-wide",
+      "signage-clear",
+      "clinic-access",
+      "ramp-safe"
+    ]
   },
   {
     "dutyinf": "점심시간은 13:00~14:00 이며 6호선 망원역 2번출구와 마포구청역 5번출구 사이에 위치하는 양봉농협건물 4층입니다.",
@@ -9691,7 +10216,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "현대자동차 도로가 (산호아파트 삼성리버힐 근처)",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "내과, 소아과, 이비인후과, 피부과",
@@ -9728,7 +10254,8 @@
     "dutytime6s": "1030",
     "dutytime4s": "1030",
     "dutymapimg": "신논현역 3번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "검진센터, 피부클리닉",
@@ -9765,7 +10292,16 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "가양역 7번출구 영스퀘어 5층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "station-to-hospital",
+      "hallway-wide",
+      "clinic-access",
+      "auto-door",
+      "waiting-room-space",
+      "elevator-access"
+    ]
   },
   {
     "dutyinf": "수액처치/소아진료(신생아부터)/X-ray/혈액검사/심전도/내시경(위,대장)/",
@@ -9802,7 +10338,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1000",
     "dutymapimg": "선릉역 10번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "교정전문/",
@@ -9839,7 +10376,19 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "6호선 효창공원역 1번출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "elevator-access",
+      "hallway-wide",
+      "station-to-hospital",
+      "parking-to-entrance",
+      "clinic-access",
+      "waiting-room-space",
+      "signage-clear",
+      "entrance-visible",
+      "auto-door",
+      "ramp-safe"
+    ]
   },
   {
     "dutyinf": "피부과",
@@ -9876,7 +10425,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1400",
     "dutymapimg": "장안사거리 부근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "목요일 휴진(변동있으므로 사전전화요)",
@@ -9913,7 +10463,14 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "이촌역 근처/ 한강맨션 21-204",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "station-to-hospital",
+      "clinic-access",
+      "ramp-safe",
+      "auto-door"
+    ]
   },
   {
     "dutyinf": "외래x, 입원만 가능",
@@ -9950,7 +10507,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "청량리역 3번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "대장항문외과 전문병원/그외 진료과는 외래만 가능(입원수술불가)",
@@ -9987,7 +10545,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "신용산역 2번출구 지하통로와 연결되어있음",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "시립대앞 글터빌딩 6층",
@@ -10024,7 +10583,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "남영역 1번 출구에서 165m",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["entrance-visible", "clinic-access", "station-to-hospital"]
   },
   {
     "dutyinf": "소이안 한의원은 맑고 깨끗한 치유를 의미합니다. \n풍부한 경험에서 오는 노하우와 정직한 진료로 정성을 다하겠습니다. \n가족같은 편안함으로 여러분의 주치의가 되겠습니다. \n교통사고 후유증, 척추 관절 통증, 추나요법, 약침치료, 턱관절 교정 , 피부, 다이어트, 성장, 면역, 한약 치료",
@@ -10061,7 +10621,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "금호역 4번출구 이편한세상 상가동",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "휴업 ~20180601",
@@ -10098,7 +10659,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "광나루역 2번 출구, 도보 10분",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "통증의학과 전문의 2인 상주 / 월화수목 야간진료",
@@ -10135,7 +10697,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "신용산역 2번 출구/용산센트럴파크 해링턴스퀘어",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "완벽한 체질감별 후 처방하여 치료합니다. 한약에 대한 불신을 가지고 계신분도 내원하시면 정확하게 치료해 드립니다. 한의학의 정통적인 음양오행으로 기를 자연스럽게 조절해 드립니다.",
@@ -10172,7 +10735,19 @@
     "dutytime6s": "1030",
     "dutytime4s": "1030",
     "dutymapimg": "당산역 11번출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "clinic-access",
+      "parking-to-entrance",
+      "hallway-wide",
+      "ramp-safe",
+      "station-to-hospital",
+      "auto-door",
+      "waiting-room-space",
+      "elevator-access",
+      "signage-clear",
+      "entrance-visible"
+    ]
   },
   {
     "dutyinf": "비만/비염/통증(어깨 허리 무릎)",
@@ -10209,7 +10784,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "효창공원앞역 2번출구 금양초 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "등현초등학교 대각선 맞은편",
@@ -10246,7 +10822,17 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "회현역 6번출구 10m",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "signage-clear",
+      "hallway-wide",
+      "clinic-access",
+      "ramp-safe",
+      "station-to-hospital",
+      "elevator-access",
+      "auto-door",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "피부과",
@@ -10283,7 +10869,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이태원역 2번출구 근처/",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "잠실 새내역에 위치한 산과, 부인과 외래 진료가 가능한 여성 의원입니다.",
@@ -10320,7 +10907,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "용문동우체국 인근 민복빌딩",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "일반보험진료O/화상진료X/소독처치O/봉합처치X",
@@ -10357,7 +10945,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "금호역1번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "관절-류마티스내과 및 피부-비뇨기과 전문의 2인 진료",
@@ -10394,7 +10983,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "숙대입구역 9번출구 근처/",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수요일 예약진료",
@@ -10431,7 +11021,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "아이파크몰 지하1층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "미용성형, 피부관리 위주",
@@ -10468,7 +11059,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "현대리버티하우스301호",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "미용성형/간단한상처봉합가능",
@@ -10505,7 +11097,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "시흥1동 주민센터 맞은편",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "신용산역 5번출구 바로 앞에 위치한 용산정형외과입니다.",
@@ -10542,7 +11135,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0900",
     "dutymapimg": "2층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "소아진료O",
@@ -10579,7 +11173,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "영등포푸르지오 아파트 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "미용성형진료만",
@@ -10616,7 +11211,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이촌역/ 한강맨션상가",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수액O/소아진료X",
@@ -10653,7 +11249,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "2층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "평일은 17:30~18시에 마감/주말은 12시~13시 마감/",
@@ -10690,7 +11287,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "방화1동 주민센터 인근 삼전그린코아 2층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "응급환자인 경우 야간 진료 가능/결석24시간o",
@@ -10727,7 +11325,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "상도효성해링턴플레이스",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["auto-door"]
   },
   {
     "dutyinf": "입원실없음, 피부과없음",
@@ -10764,7 +11363,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "석촌고분역 3번출구 공익빌딩 2층",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수액처치O 안질환O 30분전 접수마감",
@@ -10801,7 +11401,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "래미안 신반포 상가 4층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "인공신장실 운영시간 별도",
@@ -10838,7 +11439,14 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "숙대입구역 3번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "ramp-safe",
+      "parking-to-entrance",
+      "signage-clear",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "미용성형/",
@@ -10875,7 +11483,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "용산역 3번출구 인근/전자랜드 신관 광장층 A45호",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "산부인과",
@@ -10912,7 +11521,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "마들역7번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "충치치료, 예방치과, 심미치의학, 보철치료, 잇몸치료, 임플란트, 의치, 사랑니\n♥마음 편한 치과♥ 이앤치과입니다",
@@ -10949,7 +11559,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1400",
     "dutymapimg": "증산역 4번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["station-to-hospital", "auto-door"]
   },
   {
     "dutyinf": "주차 가능",
@@ -10986,7 +11597,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "금천구청역 1번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "제기동, 경동시장 약령시 초입에 위치한 한의원입니다. 좋은 한약재를 선별하여 구입하고, 법제를 통해 약재의 부작용을 없애고 약효를 강화시켜 한약의 효과를 높이기 위해 노력하고 있습니다. 침, 왕뜸, 부항, 약침, 추나 치료를 통해 환자분들의 통증과 불편함을 해결해드리고자 노력하고 있습니다.",
@@ -11023,7 +11635,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "롯데슈퍼 한남가맹점 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "토요일 첫째,셋째주 휴무",
@@ -11060,7 +11673,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "오목교역/목동초등학교 맞은편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["entrance-visible", "clinic-access"]
   },
   {
     "dutyinf": "산부인과, 외과",
@@ -11097,7 +11711,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "숙대입구역 2번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "안녕하세요 잠실역 9번출구 옆 인애한의원입니다. 항상 정성을 다해 치료하고 있습니다. \n본원은 일반 근 골격 통증 및 침구치료, 약침, 추나치료를 위주로 하고있으며, \n그외 여성질환, 자동차보험치료, 피부질환치료, 산후관리, 두통및 위장치료를 주로 하고 있습니다. \n예약문의 02-2042-7582 카카오ID : Bphani",
@@ -11134,7 +11749,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1000",
     "dutymapimg": "신정네거리역 2번출구앞",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "산부인과, 외과",
@@ -11171,7 +11787,15 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "건영아파트 사거리 우리홈마트 건너편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "ramp-safe",
+      "auto-door",
+      "clinic-access",
+      "station-to-hospital",
+      "entrance-visible"
+    ]
   },
   {
     "dutyinf": "정확한 진단, 확실한 치료\r\n압구정 형인재한의원입니다.",
@@ -11208,7 +11832,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1000",
     "dutymapimg": "신월6동 신곡시장 입구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "미용성형 위주",
@@ -11245,7 +11870,14 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "4호선충무로역 5,6번출구 도보2분거리",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "entrance-visible",
+      "auto-door",
+      "parking-to-entrance",
+      "ramp-safe"
+    ]
   },
   {
     "dutyinf": "건강검진 인증기관이며, 의과대학 내과정교수를 역임하였으며, 20년 경력의 소화기내과 분과전문의 겸 소화기내시경 세부전문의에게 위내시경, 대장내시경 검사를 받으시길 바랍니다.",
@@ -11282,7 +11914,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "몽촌토성역 5번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "예약제로 진행",
@@ -11319,7 +11952,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1400",
     "dutymapimg": "4호선 삼각지역 2번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "예약제",
@@ -11356,7 +11990,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "1400",
     "dutymapimg": "서울역 12번출구 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "토요일 (2,4주)10:00-14:30 (1,3주)10:00-1600/",
@@ -11393,7 +12028,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "엘지자이아파트 골목 안쪽",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "동대문구 장안동에 위치한 한의원 일반 한의학적 치료를 함.",
@@ -11430,7 +12066,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "강남을지병원 사거리 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "동대문구 장안동에 위치한 한의원 일반 한의학적 치료를 함.",
@@ -11467,7 +12104,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "신용산역 3번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["hallway-wide", "signage-clear"]
   },
   {
     "dutyinf": "미용성형 위주",
@@ -11504,7 +12142,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "4호선충무로역 5,6번출구 도보2분거리",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간 1~2시",
@@ -11541,7 +12180,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "봉일시장 인근 봉일프라자 건너편 길",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "다이어트, 맞춤형 건강관리, 스트레스검사, 개인맞춤 영양제, 수액치료",
@@ -11578,7 +12218,8 @@
     "dutytime6s": "0800",
     "dutytime4s": "0800",
     "dutymapimg": "신용산역 3,4번출구 바로앞",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["hallway-wide", "ramp-safe", "auto-door", "clinic-access"]
   },
   {
     "dutyinf": "제기동, 경동시장 약령시 초입에 위치한 한의원입니다. 좋은 한약재를 선별하여 구입하고, 법제를 통해 약재의 부작용을 없애고 약효를 강화시켜 한약의 효과를 높이기 위해 노력하고 있습니다. 침, 왕뜸, 부항, 약침, 추나 치료를 통해 환자분들의 통증과 불편함을 해결해드리고자 노력하고 있습니다.",
@@ -11615,7 +12256,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "용산리첸시아",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간 12:30~14:00",
@@ -11652,7 +12294,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "원효로2가 사거리 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "1.3.주 토요일 휴무/",
@@ -11689,7 +12332,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "남영역, 숙대입구역 근처/",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간 12:30~13:30",
@@ -11726,7 +12370,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "서울정릉우체국 옆",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간 12:30~13:30",
@@ -11763,7 +12408,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1400",
     "dutymapimg": "용산2가동 주민센터 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간 12:30~13:30/ 2째주,4째주 목요일휴진합니다",
@@ -11800,7 +12446,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "숙대입구역 10번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "/광장사거리 배모양 건물 맞은편/",
@@ -11837,7 +12484,17 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "장한평역 4번 출구 약30M",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "waiting-room-space",
+      "signage-clear",
+      "clinic-access",
+      "auto-door",
+      "hallway-wide",
+      "ramp-safe",
+      "elevator-access"
+    ]
   },
   {
     "dutyinf": "정성을 다하는 코지이비인후과입니다. 가족처럼 진료하겠습니다.",
@@ -11874,7 +12531,17 @@
     "dutytime6s": "0830",
     "dutytime4s": "0930",
     "dutymapimg": "신용산역 3번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "waiting-room-space",
+      "signage-clear",
+      "elevator-access",
+      "ramp-safe",
+      "hallway-wide",
+      "parking-to-entrance",
+      "auto-door",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "토요일 14시 진료 마감이나 보통 15~16시까지 진료/",
@@ -11911,7 +12578,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "용산2가동 주민센터 옆",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["entrance-visible", "ramp-safe", "hallway-wide"]
   },
   {
     "dutyinf": "참좋은치과는 20년 넘게 한 자리에서, 고객분들의 구강 건강을 지켜왔습니다. 다양한 임상 경험으로 진료에 대한 노하우는 물론 고객의 마음까지 헤아리는 치과 의사와 전원 치과 위생사로 구성된 진료팀이, 고객님 한 분 한 분을 위해 책임감 있고 따뜻한 진료 서비스를 제공합니다.",
@@ -11948,7 +12616,8 @@
     "dutytime6s": "0910",
     "dutytime4s": "1000",
     "dutymapimg": "남영역 근처/",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "건강검진 및 외래를 같이 운영합니다.",
@@ -11985,7 +12654,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1000",
     "dutymapimg": "마포역 3번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "추나, 다이어트 진료, 평일 야간진료, 점심시간 따로 없습니다",
@@ -12022,7 +12692,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "1400",
     "dutymapimg": "낙성대역 1번 출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "코 성형 클리닉",
@@ -12059,7 +12730,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "리첸시아 용산A동 제3층 306호",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "입원실 운영중인 한의원 청심당한의원입니다.",
@@ -12096,7 +12768,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "중랑구청 사거리",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "입원실 운영중인 한의원 청심당한의원입니다.",
@@ -12133,7 +12806,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "숙대근처 남영역근처",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "암치료,면역치료,알레르기,장누수증후군,히스타민증후군,기능의학병원,탈모치료,항노화클리닉\n예약제로 운영합니다.\n예약 환우는 건물앞 지정주차 가능, 그 외는 맞은 편 성동구민종합체육센터 공영주차장을 이용해 주세요.",
@@ -12170,7 +12844,8 @@
     "dutytime6s": "0800",
     "dutytime4s": "0800",
     "dutymapimg": "신동아아파트단지 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "암치료,면역치료,알레르기,장누수증후군,히스타민증후군,기능의학병원,탈모치료,항노화클리닉\n예약제로 운영합니다.\n예약 환우는 건물앞 지정주차 가능, 그 외는 맞은 편 성동구민종합체육센터 공영주차장을 이용해 주세요.",
@@ -12207,7 +12882,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "숙대입구역 근처/",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["parking-to-entrance", "signage-clear"]
   },
   {
     "dutyinf": "암치료,면역치료,알레르기,장누수증후군,히스타민증후군,기능의학병원,탈모치료,항노화클리닉\n예약제로 운영합니다.\n예약 환우는 건물앞 지정주차 가능, 그 외는 맞은 편 성동구민종합체육센터 공영주차장을 이용해 주세요.",
@@ -12244,7 +12920,15 @@
     "dutytime6s": "0910",
     "dutytime4s": "0930",
     "dutymapimg": "서울역 11번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "waiting-room-space",
+      "ramp-safe",
+      "station-to-hospital",
+      "parking-to-entrance",
+      "auto-door",
+      "hallway-wide"
+    ]
   },
   {
     "dutyinf": "자궁난소 보존치료 특화의료기관 최상산부인과\n로봇수술·하이푸·경화술·자궁경·영상의학·내과 협진타워",
@@ -12281,7 +12965,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이태원역에서 버스로 5분거리/",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "자궁난소 보존치료 특화의료기관 최상산부인과\n로봇수술·하이푸·경화술·자궁경·영상의학·내과 협진타워",
@@ -12318,7 +13003,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "이촌종합상가 내 2층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "난곡사거리 내과 소아과 진료하며 당뇨 혈액 검사,건강 검진 및 각종 예방 주사 가능하며 초음파 및 내시경 전문 의원임",
@@ -12355,7 +13041,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "효창공원역 근처/",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "분만불가",
@@ -12392,7 +13079,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "중곡제일시장 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "www.cosarang.modoo.at\n\n어지러움 클리닉\n귀.코.목.소아 클리닉\n수액. 예방접종 클리닉\n피부.비만.보톡스.필러 클리닉\n\n7호선 신대방삼거리역 2번출구",
@@ -12429,7 +13117,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0900",
     "dutymapimg": "강남구청역 2번출구 바로앞",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["station-to-hospital", "parking-to-entrance", "hallway-wide"]
   },
   {
     "dutyinf": "정성을 다하는 코지이비인후과입니다. 가족처럼 진료하겠습니다.",
@@ -12466,44 +13155,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "신논현역 5번 출구",
-    "dummyAccessibility": "inaccessible"
-  },
-  {
-    "dutyinf": "토요일 (2,4주)10:00-14:30 (1,3주)10:00-16:00",
-    "dutytel3": "02-3156-8119",
-    "dutytel1": "02-793-2801",
-    "dutydivnam": "치과의원",
-    "dutytime2c": "1800",
-    "dutyeryn": "2",
-    "dutytime6c": "1600",
-    "dutytime8c": "1700",
-    "dutytime4c": "1730",
-    "wgs84lat": "37.5179948993311",
-    "dutydiv": "N",
-    "dutytime1s": "1000",
-    "wgs84lon": "126.977734999607",
-    "dutytime5s": "1000",
-    "dutytime8s": "1000",
-    "postcdn2": "26",
-    "postcdn1": "044",
-    "dutytime3s": "1000",
-    "dutytime3c": "1800",
-    "dutyemclsname": "응급의료기관 이외",
-    "dutytime1c": "1800",
-    "dutytime7s": "1100",
-    "dutyemcls": "G099",
-    "dutyname": "키즈앤쥬니어치과의원",
-    "dutyetc": "점심시간 13:00~14:00",
-    "hpid": "A1108212",
-    "dutytime5c": "1800",
-    "dutyaddr": "서울특별시 용산구 이촌로84길 9-18 4층  (이촌동)",
-    "dutytime7c": "1500",
-    "dutytime2s": "1430",
-    "work_dttm": 1749276915000,
-    "dutytime6s": "1000",
-    "dutytime4s": "0900",
-    "dutymapimg": "엘지자이아파트 골목 안쪽",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "미용성형 위주",
@@ -12540,7 +13193,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "4호선충무로역 5,6번출구 도보2분거리",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "영상의학과 검사위주",
@@ -12577,7 +13231,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "한강초등학교 맞은편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": ["clinic-access"]
   },
   {
     "dutyinf": "매월 마지막주 수요일 17시까지 진료",
@@ -12614,7 +13269,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "가든호텔 큰길 건너편",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "매월 마지막주 수요일 17시까지 진료",
@@ -12651,7 +13307,15 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "이촌역 4번출구 인근",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "parking-to-entrance",
+      "clinic-access",
+      "auto-door",
+      "signage-clear",
+      "waiting-room-space"
+    ]
   },
   {
     "dutyinf": "한의학박사, 한방재활의학과전문의가 진료합니다.",
@@ -12688,7 +13352,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "양천성당 인근 로얄프라자 201호",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "한의학박사, 한방재활의학과전문의가 진료합니다.",
@@ -12725,7 +13390,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0930",
     "dutymapimg": "LG한강자이아파트 근처",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "관악구에서 턱관절 특화 진료를 다년간 하고 있습니다. 물론 일반 치과진료도 꼼꼼히 잘 하고 있습니다.",
@@ -12762,7 +13428,17 @@
     "dutytime6s": "0930",
     "dutytime4s": "1000",
     "dutymapimg": "전농동사거리 인근 농협은행 건물",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "auto-door",
+      "parking-to-entrance",
+      "elevator-access",
+      "signage-clear",
+      "station-to-hospital",
+      "hallway-wide",
+      "ramp-safe"
+    ]
   },
   {
     "dutyinf": "편한정형외과 ( 의료보험 / 교통사고. / 산재 ) 지정 의료기관\n입원실 도 운영중 입니다",
@@ -12799,7 +13475,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "용산중학교 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "통증 관절 / 소아 성장 / 피부 비염 / 다이어트 / 체질 보약 진료하는 피비한의원입니다.",
@@ -12836,7 +13513,19 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "신논현역 3번 출구",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "hallway-wide",
+      "parking-to-entrance",
+      "ramp-safe",
+      "auto-door",
+      "signage-clear",
+      "station-to-hospital",
+      "waiting-room-space",
+      "elevator-access",
+      "clinic-access",
+      "entrance-visible"
+    ]
   },
   {
     "dutyinf": "일반진료/라식수술",
@@ -12873,7 +13562,8 @@
     "dutytime6s": "0910",
     "dutytime4s": "0910",
     "dutymapimg": "숙대입구역 9번출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수액처치O/성인간단진료O/안질환O",
@@ -12910,7 +13600,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "수유역 4번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "수액처치O/성인간단진료O/안질환O",
@@ -12947,7 +13638,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "0930",
     "dutymapimg": "신림역 2번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "공휴일엔 예약환자만 진료",
@@ -12984,7 +13676,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "이수역13번출구/ 하나은행건물",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "양한방 협진 재활병원 입니다.",
@@ -13021,7 +13714,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "경리단길 새마을금고 건물",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심시간 1~2시",
@@ -13058,7 +13752,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "한남역 1번출구에서 순천향대병원 방향",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "안녕하세요 순천향대학교 서울병원에서 32년간 교원으로 근무하고 퇴임한 한동철입니다. 한남동 이태원로에 투석을 전문으로 하는 내과의원을 개원하였습니다. 성심성의껏 환자들을 진료하겠습니다. 감사합니다.",
@@ -13095,7 +13790,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "중앙대학교병원 인근",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "통증, 비만\n점심시간 1~2시",
@@ -13132,7 +13828,18 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "배문고등학교 맞은 편",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "elevator-access",
+      "entrance-visible",
+      "clinic-access",
+      "parking-to-entrance",
+      "signage-clear",
+      "waiting-room-space",
+      "station-to-hospital",
+      "ramp-safe",
+      "hallway-wide"
+    ]
   },
   {
     "dutyinf": "코로나신속항원검사합니다\r\n내과소아과이비인후과피부과진료/수액치료/예방접종",
@@ -13169,7 +13876,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "서울청파초등학교 인근",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "화요일 야간진료 예약환자만 가능",
@@ -13206,7 +13914,18 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "서울역 12번출구에서 도보5분거리, 후암시장 입구 2층",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "auto-door",
+      "parking-to-entrance",
+      "waiting-room-space",
+      "station-to-hospital",
+      "elevator-access",
+      "ramp-safe",
+      "hallway-wide",
+      "clinic-access"
+    ]
   },
   {
     "dutyinf": "토요일 첫째,셋째주 휴무",
@@ -13243,7 +13962,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "시청역 8번출구",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "토요일 첫째,셋째주 휴무",
@@ -13280,7 +14000,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "쌍문역 3번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "공휴일이 있는 주에는 수요일 진료",
@@ -13317,7 +14038,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "노원역 9번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "예약제",
@@ -13354,7 +14076,8 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "서강해모로아파트 앞",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "안녕하세요. 저희한의원에서는 디스크, 협착증 등의 근골격계 관절질환을 추나, 약침, 매선 치료를 통해 진료하고 있으비롯 고혈압, 당뇨, 고지혈증 등의 대사성질환을 피를 맑게하는 해독을 통해 치료합니다.\n점심시간은 오후 12시30분~ 오후2시 입니다. 이용에 참고바랍니다.",
@@ -13391,7 +14114,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "녹사평역 2번 출구에서 10분거리/",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "점심 13~14시",
@@ -13428,7 +14152,8 @@
     "dutytime6s": "0900",
     "dutytime4s": "0900",
     "dutymapimg": "녹사평역 2번 출구에서 이태원2동 방향",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "투석실 및 내과 진료",
@@ -13465,7 +14190,8 @@
     "dutytime6s": "1000",
     "dutytime4s": "1000",
     "dutymapimg": "사가정역 4번출구 맞은편",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   },
   {
     "dutyinf": "최신의 장비, 최선의 진료, 맑고 밝은눈 호호안과입니다. 신대방삼거리역 코스모빌딩 2층에 위치한 안과입니다. 백내장수술, 망막질환, 녹내장, 소아안과, 콘택트렌즈, 드림렌즈등을 주로 진료합니다.",
@@ -13502,7 +14228,16 @@
     "dutytime6s": "0800",
     "dutytime4s": "0800",
     "dutymapimg": "대륭포스트타워6차 217호",
-    "dummyAccessibility": "accessible"
+    "dummyAccessibility": "accessible",
+    "reviewKeys": [
+      "entrance-visible",
+      "hallway-wide",
+      "clinic-access",
+      "waiting-room-space",
+      "auto-door",
+      "parking-to-entrance",
+      "station-to-hospital"
+    ]
   },
   {
     "dutyinf": "눈의 편안함을 약속하는 힐링안과입니다.\n힐링안과는 재수술 센터 보유하고 있으며,국내 Top 안과 카톨릭 의대 출신 원장님들께서 진료 중 입니다.\n평생책임보증제 진료 및 강남권에 단 7대 있는 장비를 포함해 정밀 검진에 도움되는 장비를 구비하고 있습니다",
@@ -13539,7 +14274,8 @@
     "dutytime6s": "0830",
     "dutytime4s": "0830",
     "dutymapimg": "이태원역 3번출구/상지빌딩 3층",
-    "dummyAccessibility": "unknown"
+    "dummyAccessibility": "unknown",
+    "reviewKeys": []
   },
   {
     "dutyinf": "정형외과적 수술후 재활병원",
@@ -13576,6 +14312,7 @@
     "dutytime6s": "0930",
     "dutytime4s": "0930",
     "dutymapimg": "신용산역 5,6번 출구",
-    "dummyAccessibility": "inaccessible"
+    "dummyAccessibility": "inaccessible",
+    "reviewKeys": []
   }
 ]
