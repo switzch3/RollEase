@@ -51,13 +51,21 @@ export default function Search() {
       <div className="">
         <ul role="list" className="divide-y divide-slate-200 p-4">
           {byoungwons.map(
-            ({ dutyname, dutyaddr, dummyAccessibility, isOpen, dutytel1 }) => (
+            ({
+              dutyname,
+              dutyaddr,
+              dummyAccessibility,
+              isOpen,
+              dutytel1,
+              reviewKeys,
+            }) => (
               <ListByoungwon
                 key={dutytel1}
                 name={dutyname}
                 address={dutyaddr}
                 dummyAccessibility={dummyAccessibility}
                 isOpen={isOpen}
+                reviewKeys={reviewKeys}
               />
             ),
           )}
