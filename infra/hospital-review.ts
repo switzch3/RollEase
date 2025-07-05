@@ -84,10 +84,10 @@ const allReviewKeys = [
 ];
 
 // n개의 랜덤한 요소를 배열에서 뽑아주는 함수
-function getRandomKeys(arr, n) {
-  const shuffled = arr.slice().sort(() => Math.random() - 0.5);
-  return shuffled.slice(0, n);
-}
+// function getRandomKeys(arr, n) {
+//   const shuffled = arr.slice().sort(() => Math.random() - 0.5);
+//   return shuffled.slice(0, n);
+// }
 
 // 병원 데이터 업데이트
 // const updatedHospitalList = hospitalList.map((hospital) => {

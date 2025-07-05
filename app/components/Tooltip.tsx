@@ -1,11 +1,13 @@
 import { renderToString } from "react-dom/server";
 import ListByoungwon from "./ListByoungwon";
+import { HospitalReviewKey } from "@/infra/hospital-review";
 
 const Tooltip = (props: {
   // Todo: children 으로 빼기
   name: string;
   address: string;
   dummyAccessibility: "accessible" | "inaccessible" | "unknown";
+  reviewKeys?: HospitalReviewKey[];
   isOpen: boolean | null;
 }) => {
   return (

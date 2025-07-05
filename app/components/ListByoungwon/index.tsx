@@ -18,11 +18,11 @@ export default function ListByoungwon({
   address: string;
   dummyAccessibility: "accessible" | "inaccessible" | "unknown";
   isOpen: boolean | null;
-  reviewKeys: HospitalReviewKey[];
+  reviewKeys?: HospitalReviewKey[];
   children?: ReactNode;
 }) {
   return (
-    <li className="flex justify-between gap-x-6 py-5">
+    <li className="flex justify-between gap-x-6 py-5 min-w-[250px]">
       <div className="flex gap-x-4 w-full">
         {children}
         <div className="min-w-0 flex-auto">
@@ -44,22 +44,24 @@ export default function ListByoungwon({
             {address}
           </p>
 
-          <ul className="mt-2 space-y-1 text-sm leading-5 w-full">
-            {reviewKeys.map((key) => {
-              const { bgColor, label, emoji }: HospitalReviewMeta =
-                hospitalReview[key];
-              return (
-                <li
-                  key={key}
-                  className={`flex justify-between items-center rounded px-3 py-1.5 ${bgColor}`}
-                >
-                  <span className="font-medium">
-                    {emoji} {label}
-                  </span>
-                </li>
-              );
-            })}
-          </ul>
+          {reviewKeys && (
+            <ul className="mt-2 space-y-1 text-sm leading-5 w-full">
+              {reviewKeys.map((key) => {
+                const { bgColor, label, emoji }: HospitalReviewMeta =
+                  hospitalReview[key];
+                return (
+                  <li
+                    key={key}
+                    className={`flex justify-between items-center rounded px-3 py-1.5 ${bgColor}`}
+                  >
+                    <span className="font-medium">
+                      {emoji} {label}
+                    </span>
+                  </li>
+                );
+              })}
+            </ul>
+          )}
         </div>
       </div>
     </li>
