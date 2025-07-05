@@ -10,7 +10,7 @@ export type HospitalReviewKey =
   | "waiting-room-space"
   | "clinic-access";
 
-interface HospitalReviewMeta {
+export interface HospitalReviewMeta {
   emoji: string;
   label: string;
   bgColor: string;

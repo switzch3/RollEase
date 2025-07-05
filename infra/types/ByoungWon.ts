@@ -1,3 +1,5 @@
+import { HospitalReviewKey } from "@/infra/hospital-review";
+
 export type MedicalFacility = {
   dutyaddr: string; // "서울특별시 강남구 압구정로28길 49, 유림아트홀, 2층 일부 (신사동)"
   dutydiv: string; // "C"
@@ -34,4 +36,5 @@ export type MedicalFacility = {
   wgs84lon: string; // "127.027711483385"
   work_dttm: number; // 1654581327000
   dummyAccessibility: "inaccessible" | "unknown" | "accessible";
+  reviewKeys: HospitalReviewKey[];
 };

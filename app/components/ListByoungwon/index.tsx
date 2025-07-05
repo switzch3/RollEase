@@ -1,6 +1,10 @@
 import LabelAccessibility from "./LabelAccessibility";
 import type { ReactNode } from "react";
-import { hospitalReview, HospitalReviewKey } from "@/infra/hospital-review";
+import {
+  hospitalReview,
+  HospitalReviewKey,
+  HospitalReviewMeta,
+} from "@/infra/hospital-review";
 
 export default function ListByoungwon({
   name,
